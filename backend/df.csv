@@ -1,0 +1,3320 @@
+	Movie_ID	Title	Year	Genre	Genre_Combined
+0	34759	Aaghaaz 	2000	Thriller	Thriller
+1	34760	Aaj Ka Ravan	2000	Drama	Drama
+2	34761	Anjaane	2000	Romance	Romance
+3	34762	Anokha Moti	2000	Family	Family
+4	34763	Apradhi Kaun	2000	Thriller	Thriller
+5	34764	Astitva	2000	Drama, Social	Drama Social
+6	34765	Baaghi	2000	Action	Action
+7	34766	Badal	2000	Action, Drama	Action Drama
+8	34767	Bas Yaari Rakho	2000	Comedy, Drama	Comedy Drama
+9	34768	Bawandar	2000	Drama	Drama
+10	34769	Beti No.1	2000	Comedy	Comedy
+11	34770	Bhai Thakur	2000	Action	Action
+12	34771	Bichhoo	2000	Action	Action
+13	34772	Billa No. 786	2000	Action	Action
+14	34773	Bulandi	2000	Drama	Drama
+15	34774	Chal Mere Bhai	2000	Comedy	Comedy
+16	34775	Champion	2000	Action, Drama	Action Drama
+17	34776	Dahshat	2000	Horror	Horror
+18	34777	Deewane	2000	Action, Romance	Action Romance
+19	34778	Dhai Akshar Prem Ke	2000	Romance, Drama	Romance Drama
+20	34779	Dhadkan	2000	Romance, Drama	Romance Drama
+21	34780	Dil Ki Dhadkan	2000	Drama, Romance	Drama Romance
+22	34781	Dil Pe Mat Le Yaar	2000	Drama	Drama
+23	34782	Dr. Babasaheb Ambedkar	2000	Biography, History	Biography History
+24	34783	Dr Mukta	2000	N/A	N/A
+25	34784	Dulhan Hum Le Jayenge	2000	Comedy, Romance	Comedy Romance
+26	34785	Fiza	2000	Drama, Family, Thriller	Drama Family Thriller
+27	34786	Gaja Gamini	2000	Drama	Drama
+28	34787	Gang	2000	Crime	Crime
+29	34788	Ghaath	2000	Drama	Drama
+30	34789	Hadh Kar Di Aapne	2000	Comedy, Romance	Comedy Romance
+31	34790	Hamara Dil Aapke Paas Hai	2000	Drama	Drama
+32	34791	Har Dil Jo Pyar Karega	2000	Comedy, Drama, Romance	Comedy Drama Romance
+33	34792	Hari-Bhari	2000	Drama, Family	Drama Family
+34	34793	Hera Pheri	2000	Comedy	Comedy
+35	34794	Hey Ram	2000	Drama	Drama
+36	34795	Hum To Mohabbat Karega	2000	Action, Romance	Action Romance
+37	34796	Jallad No. 1	2000	Drama	Drama
+38	34797	Jis Desh Mein Ganga Rehta Hain	2000	Drama	Drama
+39	34798	Joru Ka Ghulam	2000	Drama	Drama
+40	34799	Josh	2000	Action, Romance	Action Romance
+41	34800	Jung	2000	Drama	Drama
+42	34801	Jungle	2000	Romance	Romance
+43	34802	Kabrastan	2000	Horror	Horror
+44	34803	Kahin Pyaar Na Ho Jaaye	2000	Comedy, romance	Comedy romance
+45	34804	Kaho Naa... Pyaar Hai	2000	Romance, Drama, Musical	Romance Drama Musical
+46	34805	Kairee	2000	Drama	Drama
+47	34806	Karobaar: The Business of Love	2000	Drama	Drama
+48	34807	Kharidaar	2000	Drama	Drama
+49	34808	Khauff	2000	Drama	Drama
+50	34809	Khiladi 420	2000	Action, romance	Action romance
+51	34810	Krodh	2000	Action	Action
+52	34811	Kunwara	2000	Comedy	Comedy
+53	34812	Kurukshetra	2000	Action, romance	Action romance
+54	34813	Kya Kehna	2000	Romance, drama	Romance drama
+55	34814	Le Chal Apne Sang	2000	Romance	Romance
+56	34815	Lekroo	2000	Drama	Drama
+57	34816	Mela	2000	Drama	Drama
+58	34817	Meri Jung Ka Elaan	2000	Drama	Drama
+59	34818	Mission Kashmir	2000	Drama, War, Thriller	Drama War Thriller
+60	34819	Mohabbatein	2000	Drama, Romance, Musical, Family	Drama Romance Musical Family
+61	34820	Nidaan	2000	Drama	Drama
+62	34821	Papa the Great	2000	Family	Family
+63	34822	Phir Bhi Dil Hai Hindustani	2000	Comedy, Drama, Romance, Musical	Comedy Drama Romance Musical
+64	34823	The Prince of Light	2000	Animation, Drama, Adventure, Action	Animation Drama Adventure Action
+65	34824	Pukar	2000	Drama	Drama
+66	34825	Raja Ko Rani Se Pyar Ho Gaya	2000	Comedy, Musical	Comedy Musical
+67	34826	Raju Chacha	2000	Comedy	Comedy
+68	34827	Refugee	2000	Drama, Romance	Drama Romance
+69	34828	The Revenge: Geeta Mera Naam	2000	Action	Action
+70	34829	Saanjh	2000	Drama, Family	Drama Family
+71	34830	Second Generation	2000	Drama	Drama
+72	34831	Shikaar	2000	Action, Musical, Thriller	Action Musical Thriller
+73	34832	Shikari	2000	Thriller, Action, Romance	Thriller Action Romance
+74	34833	Snip!	2000	Comedy, Thriller	Comedy Thriller
+75	34834	Sultaan	2000	Action, Drama	Action Drama
+76	34835	Tapish	2000	Drama	Drama
+77	34836	Tarkieb	2000	Suspense, Thriller	Suspense Thriller
+78	34837	Tera Jadoo Chal Gayaa	2000	Romance	Romance
+79	34838	Tere Liye	2000	Romance	Romance
+80	34839	Tune Mera Dil Le Liyaa	2000	Drama, Family, Romance	Drama Family Romance
+81	34840	Zindagi Zindabad	2000	Drama	Drama
+82	34841	Abhay	2001	"Thriller
+"	"Thriller
+"
+83	34842	Aamdani Atthanni Kharcha Rupaiya	2001	"Family Drama
+"	"Family Drama
+"
+84	34843	Aashiq	2001	"Action Comedy
+"	"Action Comedy
+"
+85	34844	Ajnabee	2001	"Thriller, Suspense, Crime
+"	"Thriller Suspense Crime
+"
+86	34845	Aks	2001	"Thriller, Horror
+"	"Thriller Horror
+"
+87	34846	Albela	2001	"Romance
+"	"Romance
+"
+88	34847	Asoka	2001	"History
+"	"History
+"
+89	34848	Bas Itna Sa Khwaab Hai	2001	"Drama, Romance, Social
+"	"Drama Romance Social
+"
+90	34849	Bengal Tiger	2001	"Action
+"	"Action
+"
+91	34850	Bhairav	2001	"
+"	"
+"
+92	34851	Censor	2001	"
+"	"
+"
+93	34852	Chandni Bar	2001	"Drama
+"	"Drama
+"
+94	34853	Chhupa Rustam: A Musical Thriller	2001	"Thriller
+"	"Thriller
+"
+95	34854	Chori Chori Chupke Chupke	2001	"Drama, Romance, Musical, Social
+"	"Drama Romance Musical Social
+"
+96	34855	Daman	2001	"Drama
+"	"Drama
+"
+97	34856	Dattak	2001	"
+"	"
+"
+98	34857	Deewaanapan	2001	"Drama, Romance
+"	"Drama Romance
+"
+99	34858	Dil Chahta Hai	2001	"Drama, Comedy, Romance, Musical
+"	"Drama Comedy Romance Musical
+"
+100	34859	Dil Ne Phir Yaad Kiya	2001	"Romance
+"	"Romance
+"
+101	34860	Divya Drishti	2001	"
+"	"
+"
+102	34861	Ehsaas: The Feeling	2001	"Drama
+"	"Drama
+"
+103	34862	Ek Rishtaa: The Bond of Love	2001	"Family Drama
+"	"Family Drama
+"
+104	34863	Farz	2001	"Action, Romance
+"	"Action Romance
+"
+105	34864	Gadar: Ek Prem Katha	2001	"Drama, War, Romance, Action
+"	"Drama War Romance Action
+"
+106	34865	Grahan	2001	"Romance
+"	"Romance
+"
+107	34866	Hadh: Life on the Edge of Death	2001	"
+"	"
+"
+108	34867	Hum Ho Gaye Aapke	2001	"Romance
+"	"Romance
+"
+109	34868	Indian	2001	"Action
+"	"Action
+"
+110	34869	Ittefaq	2001	"Action, Drama, Thriller
+"	"Action Drama Thriller
+"
+111	34870	Jodi No.1	2001	"Comedy
+"	"Comedy
+"
+112	34871	Kabhi Khushi Kabhie Gham...	2001	"Drama, Romance, Family
+"	"Drama Romance Family
+"
+113	34872	Kasam	2001	"Action
+"	"Action
+"
+114	34873	Kasoor	2001	"Thriller
+"	"Thriller
+"
+115	34874	Kuch Khatti Kuch Meethi	2001	"Comedy, Drama
+"	"Comedy Drama
+"
+116	34875	Kyo Kii Main Jhuth Nahin Bolta	2001	"Comedy, Romance
+"	"Comedy Romance
+"
+117	34876	Lagaan: Once Upon a Time in India	2001	"Drama, Musical, Social
+"	"Drama Musical Social
+"
+118	34877	Lajja	2001	"Drama, Romance, Musical, Crime
+"	"Drama Romance Musical Crime
+"
+119	34878	Love Ke Liye Kuchh Bhi Karega	2001	"Comedy
+"	"Comedy
+"
+120	34879	Maya	2001	"
+"	"
+"
+121	34880	Mitti	2001	"
+"	"
+"
+122	34881	Moksha	2001	"Drama
+"	"Drama
+"
+123	34882	Mujhe Kucch Kehna Hai	2001	"Comedy
+"	"Comedy
+"
+124	34883	Mujhe Meri Biwi Se Bachaao	2001	"Comedy, Family
+"	"Comedy Family
+"
+125	34884	Nayak	2001	"Drama
+"	"Drama
+"
+126	34885	Officer	2001	"Action
+"	"Action
+"
+127	34886	One 2 Ka 4	2001	"Action, Romance
+"	"Action Romance
+"
+128	34887	Paagalpan	2001	"Romance
+"	"Romance
+"
+129	34888	Pyaar Ishq Aur Mohabbat	2001	"Romance
+"	"Romance
+"
+130	34889	Pyaar Tune Kya Kiya	2001	"Drama, Romance, Thriller
+"	"Drama Romance Thriller
+"
+131	34890	Pyaar Zindagi Hai	2001	"
+"	"
+"
+132	34891	Rahul	2001	"Drama
+"	"Drama
+"
+133	34892	Rehnaa Hai Terre Dil Mein	2001	"Romance
+"	"Romance
+"
+134	34893	Shirdi Sai Baba	2001	"
+"	"
+"
+135	34894	Style	2001	"Romance
+"	"Romance
+"
+136	34895	Tamboo Mein Bamoo	2001	"
+"	"
+"
+137	34896	Tera Mera Saath Rahen	2001	"Drama
+"	"Drama
+"
+138	34897	Tum Bin	2001	"Romance
+"	"Romance
+"
+139	34898	Veer Savarkar	2001	"
+"	"
+"
+140	34899	Yaadein	2001	"Romance, Drama
+"	"Romance Drama
+"
+141	34900	Yeh Raaste Hain Pyaar Ke	2001	"Drama
+"	"Drama
+"
+142	34901	Yeh Teraa Ghar Yeh Meraa Ghar	2001	"Drama
+"	"Drama
+"
+143	34902	Yeh Zindagi Ka Safar	2001	"
+"	"
+"
+144	34903	Zubeidaa	2001	"Drama
+"	"Drama
+"
+145	34904	16-Dec	2002	"Action
+"	"Action
+"
+146	34905	23rd March 1931: Shaheed	2002	"Historical Drama
+"	"Historical Drama
+"
+147	34906	Aankhen	2002	"Thriller, Action
+"	"Thriller Action
+"
+148	34907	Aap Mujhe Achche Lagne Lage	2002	"Romance, Drama
+"	"Romance Drama
+"
+149	34908	Ab Ke Baras	2002	"Romance, Drama
+"	"Romance Drama
+"
+150	34909	Agni Varsha	2002	"Historical
+"	"Historical
+"
+151	34910	Akhiyon Se Goli Maare	2002	"Comedy
+"	"Comedy
+"
+152	34911	Annarth	2002	"Action, Thriller
+"	"Action Thriller
+"
+153	34912	Ansh: The Deadly Part	2002	"Action, Thriller
+"	"Action Thriller
+"
+154	34913	Awara Paagal Deewana	2002	"Action, Comedy
+"	"Action Comedy
+"
+155	34914	Baaja	2002	"Children's
+"	"Children's
+"
+156	34915	Be-Lagaam	2002	"Action
+"	"Action
+"
+157	34916	Badhaai Ho Badhaai	2002	"Comedy, Drama
+"	"Comedy Drama
+"
+158	34917	Bollywood Queen	2002	"
+"	"
+"
+159	34918	Bomb the System	2002	"
+"	"
+"
+160	34919	Chalo Ishq Ladaaye	2002	"Comedy
+"	"Comedy
+"
+161	34920	Chor Machaaye Shor	2002	"Comedy, Romance, Crime
+"	"Comedy Romance Crime
+"
+162	34921	Company	2002	"Crime, Drama
+"	"Crime Drama
+"
+163	34922	Deewangee	2002	"Thriller
+"	"Thriller
+"
+164	34923	Desh Devi	2002	"
+"	"
+"
+165	34924	Devdas	2002	"Romance, Drama, Musical, Historical
+"	"Romance Drama Musical Historical
+"
+166	34925	Dil Hai Tumhaara	2002	"Family, Romance, Drama
+"	"Family Romance Drama
+"
+167	34926	Dil Vil Pyar Vyar	2002	"Romance, Drama
+"	"Romance Drama
+"
+168	34927	Ek Chhotisi Love Story	2002	"Erotic
+"	"Erotic
+"
+169	34928	Encounter: The Killing	2002	"
+"	"
+"
+170	34929	Filhaal	2002	"Drama
+"	"Drama
+"
+171	34930	Ghaav: The Wound	2002	"
+"	"
+"
+172	34931	Gunaah	2002	"Thriller, Romance
+"	"Thriller Romance
+"
+173	34932	Haan Maine Bhi Pyaar Kiya	2002	"Drama, Romance
+"	"Drama Romance
+"
+174	34933	Hathyar	2002	"Drama
+"	"Drama
+"
+175	34934	Hum Kisise Kum Nahin	2002	"Action, Comedy
+"	"Action Comedy
+"
+176	34935	Hum Pyar Tumhi Se Kar Baithe	2002	"Romance
+"	"Romance
+"
+177	34936	Hum Tumhare Hain Sanam	2002	"Drama, Romance
+"	"Drama Romance
+"
+178	34937	Humraaz	2002	"Thriller, Romance, Musical
+"	"Thriller Romance Musical
+"
+179	34938	Jaani Dushman: Ek Anokhi Kahani	2002	"Fantasy
+"	"Fantasy
+"
+180	34939	Jang Aur Aman	2002	"
+"	"
+"
+181	34940	Jeena Sirf Merre Liye	2002	"Romance
+"	"Romance
+"
+182	34941	Kaante	2002	"Action, Thriller
+"	"Action Thriller
+"
+183	34942	Kabhie Tum Kabhie Hum	2002	"
+"	"
+"
+184	34943	Karz: The Burden of Truth	2002	"Action, Thriller
+"	"Action Thriller
+"
+185	34944	Kehtaa Hai Dil Baar Baar	2002	"
+"	"
+"
+186	34945	Kitne Door Kitne Paas	2002	"Romance, Drama, Comedy
+"	"Romance Drama Comedy
+"
+187	34946	Koi Mere Dil Se Poochhe	2002	"Drama, Romance, Social
+"	"Drama Romance Social
+"
+188	34947	Kranti	2002	"
+"	"
+"
+189	34948	Kuch Tum Kaho Kuch Hum Kahein	2002	"Romance
+"	"Romance
+"
+190	34949	Kya Yehi Pyaar Hai	2002	"
+"	"
+"
+191	34950	Kyaa Dil Ne Kahaa	2002	"Romance
+"	"Romance
+"
+192	34951	Lal Salaam	2002	"
+"	"
+"
+193	34952	Maa Tujhhe Salaam	2002	"Drama
+"	"Drama
+"
+194	34953	Maine Dil Tujhko Diya	2002	"Action, Romance
+"	"Action Romance
+"
+195	34954	Makdee	2002	"
+"	"
+"
+196	34955	Maseeha	2002	"Action
+"	"Action
+"
+197	34956	Mere Yaar Ki Shaadi Hai	2002	"Romance
+"	"Romance
+"
+198	34957	Mitr, My Friend	2002	"Drama
+"	"Drama
+"
+199	34958	Mohabbat Ho Gayi Hai Tumse	2002	"
+"	"
+"
+200	34959	Mujhse Dosti Karoge!	2002	"Romance, Drama, Comedy, Musical
+"	"Romance Drama Comedy Musical
+"
+201	34960	Mulaqaat	2002	"
+"	"
+"
+202	34961	Na Tum Jaano Na Hum	2002	"Romance, Drama
+"	"Romance Drama
+"
+203	34962	Nishad	2002	"
+"	"
+"
+204	34963	Om Jai Jagadish	2002	"Family, Drama, Social
+"	"Family Drama Social
+"
+205	34964	Pitaah	2002	"
+"	"
+"
+206	34965	Pyaar Diwana Hota Hai	2002	"Romance
+"	"Romance
+"
+207	34966	Pyar Ki Dhun	2002	"
+"	"
+"
+208	34967	Pyaasa	2002	"Action, Crime
+"	"Action Crime
+"
+209	34968	Raaz	2002	"Horror, Thriller, Romance, Musical
+"	"Horror Thriller Romance Musical
+"
+210	34969	Rishtey	2002	"Drama, Family
+"	"Drama Family
+"
+211	34970	Road	2002	"Thriller
+"	"Thriller
+"
+212	34971	Saathiya	2002	"Drama, Romance, Social, Musical
+"	"Drama Romance Social Musical
+"
+213	34972	Shaheed-E-Azam	2002	"Historical, Drama
+"	"Historical Drama
+"
+214	34973	Shakti - The Power	2002	"Drama
+"	"Drama
+"
+215	34974	Shararat	2002	"Comedy, Drama
+"	"Comedy Drama
+"
+216	34975	Soch	2002	"
+"	"
+"
+217	34976	Sur: The Melody of Life	2002	"Musical
+"	"Musical
+"
+218	34977	The Legend of Bhagat Singh	2002	"Historical, Drama
+"	"Historical Drama
+"
+219	34978	Tumko Na Bhool Paayenge	2002	"Drama
+"	"Drama
+"
+220	34979	Tum Se Achcha Kaun Hai	2002	"
+"	"
+"
+221	34980	Waah! Tera Kya Kehna	2002	"
+"	"
+"
+222	34981	Yeh Dil Aashiqanaa	2002	"
+"	"
+"
+223	34982	Yeh Hai Jalwa	2002	"Comedy
+"	"Comedy
+"
+224	34983	Yeh Kaisi Mohabbat	2002	"
+"	"
+"
+225	34984	Yeh Kya Ho Raha Hai?	2002	"Comedy, Romance
+"	"Comedy Romance
+"
+226	34985	Yeh Mohabbat Hai	2002	"
+"	"
+"
+227	34986	Zindagi Khoobsoorat Hai	2002	"
+"	"
+"
+228	34987	3 Deewarein	2003	"Drama
+"	"Drama
+"
+229	34988	88 Antop Hill	2003	"Thriller
+"	"Thriller
+"
+230	34989	Aaj Ka Andha Kanoon	2003	"
+"	"
+"
+231	34990	Aanch	2003	"
+"	"
+"
+232	34991	Aapko Pehle Bhi Kahin Dekha Hai	2003	"Romance
+"	"Romance
+"
+233	34992	Aisaa Kyon	2003	"
+"	"
+"
+234	34993	Andaaz	2003	"Romance
+"	"Romance
+"
+235	34994	Armaan	2003	"Drama, Family
+"	"Drama Family
+"
+236	34995	Baap Ka Baap	2003	"
+"	"
+"
+237	34996	Baaz: A Bird in Danger	2003	"Thriller
+"	"Thriller
+"
+238	34997	Baghban	2003	"Drama, Family
+"	"Drama Family
+"
+239	34998	Bas Yun Hi	2003	"Drama
+"	"Drama
+"
+240	34999	Basti	2003	"Action
+"	"Action
+"
+241	35000	Bhoot	2003	"Horror
+"	"Horror
+"
+242	35001	Boom	2003	"Thriller
+"	"Thriller
+"
+243	35002	Butterfly	2003	"
+"	"
+"
+244	35003	The Bypass	2003	"
+"	"
+"
+245	35004	Calcutta Mail	2003	"Drama
+"	"Drama
+"
+246	35005	Chalte Chalte	2003	"Drama, Romance, Comedy, Musical
+"	"Drama Romance Comedy Musical
+"
+247	35006	Chori Chori	2003	"Romance
+"	"Romance
+"
+248	35007	Chupke Se	2003	"
+"	"
+"
+249	35008	Chura Liyaa Hai Tumne	2003	"Action, Drama, Romance, Thriller
+"	"Action Drama Romance Thriller
+"
+250	35009	Dabdaba	2003	"
+"	"
+"
+251	35010	Danav	2003	"
+"	"
+"
+252	35011	Darna Mana Hai	2003	"Horror, Thriller
+"	"Horror Thriller
+"
+253	35012	Dhoop	2003	"
+"	"
+"
+254	35013	Dhund	2003	"
+"	"
+"
+255	35014	Dil Ka Rishta	2003	"Drama, Romance
+"	"Drama Romance
+"
+256	35015	Dil Pardesi Ho Gayaa	2003	"Romance
+"	"Romance
+"
+257	35016	Dum	2003	"Action, Drama, Romance
+"	"Action Drama Romance
+"
+258	35017	Ek Alag Mausam	2003	"
+"	"
+"
+259	35018	Ek Aur Ek Gyarah	2003	"Comedy
+"	"Comedy
+"
+260	35019	Ek Din 24 Ghante	2003	"
+"	"
+"
+261	35020	Escape from Taliban	2003	"Drama
+"	"Drama
+"
+262	35021	Final Solution	2003	"
+"	"
+"
+263	35022	Footpath	2003	"Drama
+"	"Drama
+"
+264	35023	Fun2shh... Dudes in the 10th Century	2003	"
+"	"
+"
+265	35024	Gangaajal	2003	"Drama, Social
+"	"Drama Social
+"
+266	35025	Green Card Fever	2003	"Drama
+"	"Drama
+"
+267	35026	Haasil	2003	"Drama
+"	"Drama
+"
+268	35027	Hawa	2003	"Horror
+"	"Horror
+"
+269	35028	Hawayein	2003	"
+"	"
+"
+270	35029	The Hero: Love Story of a Spy	2003	"Drama, Action, Thriller
+"	"Drama Action Thriller
+"
+271	35030	Humein Tumse Pyar Ho Gaya Chupke Chupke	2003	"
+"	"
+"
+272	35031	Hungama	2003	"Comedy
+"	"Comedy
+"
+273	35032	Indian Babu	2003	"
+"	"
+"
+274	35033	Inteha	2003	"Drama, Thriller
+"	"Drama Thriller
+"
+275	35034	Ishq Vishk	2003	"Romance
+"	"Romance
+"
+276	35035	Jaal: The Trap	2003	"Action, Romance
+"	"Action Romance
+"
+277	35036	Jajantaram Mamantaram	2003	"
+"	"
+"
+278	35037	Janasheen	2003	"Thriller
+"	"Thriller
+"
+279	35038	Jhankaar Beats	2003	"Drama, Musical
+"	"Drama Musical
+"
+280	35039	Jism	2003	"Drama, Romance, Thriller
+"	"Drama Romance Thriller
+"
+281	35040	Jodi Kya Banayi Wah Wah Ramji	2003	"
+"	"
+"
+282	35041	Joggers Park	2003	"
+"	"
+"
+283	35042	Kaash... Hamara Dil Pagal Na Hota	2003	"
+"	"
+"
+284	35043	Kagaar: Life on the Edge	2003	"
+"	"
+"
+285	35044	Kahan Ho Tum	2003	"
+"	"
+"
+286	35045	Kaise Kahoon Ke... Pyaar Hai	2003	"
+"	"
+"
+287	35046	Kal Ho Naa Ho	2003	"Drama, Romance, Comedy, Family, Musical, Social
+"	"Drama Romance Comedy Family Musical Social
+"
+288	35047	Kash Aap Hamare Hote	2003	"Romance
+"	"Romance
+"
+289	35048	Kaya Poochhe Maya Se	2003	"
+"	"
+"
+290	35049	Khanjar: The Knife	2003	"Action
+"	"Action
+"
+291	35050	Khel  No Ordinary Game	2003	"Thriller
+"	"Thriller
+"
+292	35051	Khushi	2003	"Romance
+"	"Romance
+"
+293	35052	Khwahish	2003	"Drama
+"	"Drama
+"
+294	35053	Koi... Mil Gaya	2003	"Romance, Fantasy, Musical
+"	"Romance Fantasy Musical
+"
+295	35054	Kucch To Hai	2003	"Thriller
+"	"Thriller
+"
+296	35055	Kuch Naa Kaho	2003	"Drama, Romance, Musical
+"	"Drama Romance Musical
+"
+297	35056	Kyon?	2003	"
+"	"
+"
+298	35057	Larger Than Life	2003	"
+"	"
+"
+299	35058	LOC: Kargil	2003	"War, Drama, Historical
+"	"War Drama Historical
+"
+300	35059	Love at Times Square	2003	"
+"	"
+"
+301	35060	Maa Santoshi Maa	2003	"
+"	"
+"
+302	35061	Main Madhuri Dixit Banna Chahti Hoon	2003	"Comedy
+"	"Comedy
+"
+303	35062	Main Prem Ki Diwani Hoon	2003	"Romance, Drama, Comedy
+"	"Romance Drama Comedy
+"
+304	35063	Market	2003	"
+"	"
+"
+305	35064	Matrubhoomi	2003	"Drama
+"	"Drama
+"
+306	35065	Miss India: The Mystery	2003	"
+"	"
+"
+307	35066	Mudda: The Issue	2003	"
+"	"
+"
+308	35067	Mumbai Matinee	2003	"
+"	"
+"
+309	35068	Mumbai Se Aaya Mera Dost	2003	"Drama
+"	"Drama
+"
+310	35069	Munna Bhai M.B.B.S.	2003	"Comedy, Social, Musical
+"	"Comedy Social Musical
+"
+311	35070	Naag Lok	2003	"
+"	"
+"
+312	35071	Nayee Padosan	2003	"
+"	"
+"
+313	35072	October	2003	"
+"	"
+"
+314	35073	Om	2003	"
+"	"
+"
+315	35074	Oops!	2003	"
+"	"
+"
+316	35075	Out of Control	2003	"Comedy, Romance
+"	"Comedy Romance
+"
+317	35076	Paanch	2003	"
+"	"
+"
+318	35077	Parwana	2003	"Action, Drama, Thriller
+"	"Action Drama Thriller
+"
+319	35078	Patth	2003	"
+"	"
+"
+320	35079	Pehli Nazar Ka Pehla Pyaar: Love at First Sight	2003	"
+"	"
+"
+321	35080	Pinjar	2003	"Drama, Social
+"	"Drama Social
+"
+322	35081	The Pink Mirror	2003	"
+"	"
+"
+323	35082	Praan Jaye Par Shaan Na Jaye	2003	"Comedy
+"	"Comedy
+"
+324	35083	Qayamat: City Under Threat	2003	"Thriller
+"	"Thriller
+"
+325	35084	Raghu More: Bachelor of Hearts	2003	"
+"	"
+"
+326	35085	Raghu Romeo	2003	"
+"	"
+"
+327	35086	Raja Bhaiya	2003	"
+"	"
+"
+328	35087	Rasikan Re	2003	"
+"	"
+"
+329	35088	Right Here, Right Now	2003	"
+"	"
+"
+330	35089	Rules: Pyaar Ka Superhit Formula	2003	"
+"	"
+"
+331	35090	Saaya	2003	"Drama
+"	"Drama
+"
+332	35091	Sala Bandar!	2003	"
+"	"
+"
+333	35092	Samay: When Time Strikes	2003	"Thriller
+"	"Thriller
+"
+334	35093	Sanatta: The Silence	2003	"
+"	"
+"
+335	35094	Sandhya	2003	"
+"	"
+"
+336	35095	Satta	2003	"Drama, Social
+"	"Drama Social
+"
+337	35096	Satyaghath: Crime Never Pays	2003	"
+"	"
+"
+338	35097	Shanti	2003	"
+"	"
+"
+339	35098	Sssshhh...	2003	"
+"	"
+"
+340	35099	Stumped	2003	"
+"	"
+"
+341	35100	Supari	2003	"
+"	"
+"
+342	35101	Surya	2003	"
+"	"
+"
+343	35102	Tada	2003	"
+"	"
+"
+344	35103	Taj Mahal: A Monument of Love	2003	"
+"	"
+"
+345	35104	Talaash: The Hunt Begins...	2003	"Thriller
+"	"Thriller
+"
+346	35105	Tareekh	2003	"
+"	"
+"
+347	35106	Tehzeeb	2003	"
+"	"
+"
+348	35107	Tere Naam	2003	"Drama, Romance
+"	"Drama Romance
+"
+349	35108	Tu Bal Bramhachari Main Hoon Kanya Kunwari	2003	"
+"	"
+"
+350	35109	Tujhe Meri Kasam	2003	"Romance
+"	"Romance
+"
+351	35110	Tumse Milke Wrong Number	2003	"
+"	"
+"
+352	35111	Valentine Days	2003	"
+"	"
+"
+353	35112	Waisa Bhi Hota Hai Part II	2003	"
+"	"
+"
+354	35113	Xcuse Me	2003	"Comedy
+"	"Comedy
+"
+355	35114	Yeh Dil	2003	"
+"	"
+"
+356	35115	Zameen	2003	"Thriller
+"	"Thriller
+"
+357	35116	Aabra Ka Daabra	2004	"Fantasy
+"	"Fantasy
+"
+358	35117	Aan: Men at Work	2004	"Action
+"	"Action
+"
+359	35118	Ab... Bas!	2004	"Adult
+"	"Adult
+"
+360	35119	Ab Tumhare Hawale Watan Saathiyo	2004	"War, Drama
+"	"War Drama
+"
+361	35120	Aetbaar	2004	"Thriller
+"	"Thriller
+"
+362	35121	Agnipankh	2004	"
+"	"
+"
+363	35122	Aitraaz	2004	"Drama, Romance, Thriller
+"	"Drama Romance Thriller
+"
+364	35123	Asambhav	2004	"Mystery, Thriller
+"	"Mystery Thriller
+"
+365	35124	Banana Brothers	2004	"Comedy
+"	"Comedy
+"
+366	35125	Bardaasht	2004	"Action, Drama, Thriller
+"	"Action Drama Thriller
+"
+367	35126	Chameli	2004	"Drama
+"	"Drama
+"
+368	35127	Chand Bujh Gaya	2004	"Romance
+"	"Romance
+"
+369	35128	Charas	2004	"Action
+"	"Action
+"
+370	35129	Deewaar	2004	"Drama
+"	"Drama
+"
+371	35130	Dev	2004	"Drama
+"	"Drama
+"
+372	35131	Dhoom	2004	"Thriller, Action
+"	"Thriller Action
+"
+373	35132	Dil Bechara Pyaar Ka Maara	2004	"Comedy
+"	"Comedy
+"
+374	35133	Dil Maange More	2004	"Romance, Comedy
+"	"Romance Comedy
+"
+375	35134	Dil Ne Jise Apna Kahaa	2004	"Drama, Romance
+"	"Drama Romance
+"
+376	35135	Dobara	2004	"Drama
+"	"Drama
+"
+377	35136	Dukaan	2004	"Adult Romance
+"	"Adult Romance
+"
+378	35137	Ek Se Badhkar Ek	2004	"Comedy
+"	"Comedy
+"
+379	35138	Ek Hasina Thi	2004	"Thriller, Drama
+"	"Thriller Drama
+"
+380	35139	Fida	2004	"Drama, Romance, Thriller
+"	"Drama Romance Thriller
+"
+381	35140	Garv	2004	"Drama
+"	"Drama
+"
+382	35141	Gayab	2004	"Fantasy, Thriller
+"	"Fantasy Thriller
+"
+383	35142	Girlfriend	2004	"Drama, Romance
+"	"Drama Romance
+"
+384	35143	Hatya	2004	"
+"	"
+"
+385	35144	Hava Aney Dey	2004	"Drama
+"	"Drama
+"
+386	35145	Hawas	2004	"Erotic Romance
+"	"Erotic Romance
+"
+387	35146	Hulchul	2004	"Comedy, Drama, Romance, Family
+"	"Comedy Drama Romance Family
+"
+388	35147	Hum Tum	2004	"Comedy, Romance, Drama, Musical
+"	"Comedy Romance Drama Musical
+"
+389	35148	Hyderabad Blues 2	2004	"Drama
+"	"Drama
+"
+390	35149	I Proud to Be an Indian	2004	"Action
+"	"Action
+"
+391	35150	Insaaf: The Justice	2004	"Action
+"	"Action
+"
+392	35151	Inteqam: The Perfect Game	2004	"Action
+"	"Action
+"
+393	35152	Ishq Hai Tumse	2004	"Drama
+"	"Drama
+"
+394	35153	Julie	2004	"Adult Drama
+"	"Adult Drama
+"
+395	35154	Kaun Hai Jo Sapno Mein Aaya	2004	"Romance
+"	"Romance
+"
+396	35155	Kaya Taran	2004	"Drama
+"	"Drama
+"
+397	35156	Khakee	2004	"Action, Thriller
+"	"Action Thriller
+"
+398	35157	Khamosh Pani	2004	"Drama
+"	"Drama
+"
+399	35158	King of Bollywood	2004	"Comedy
+"	"Comedy
+"
+400	35159	Kis Kis Ki Kismat	2004	"Comedy
+"	"Comedy
+"
+401	35160	Kismat	2004	"Thriller
+"	"Thriller
+"
+402	35161	Kiss Kis Ko	2004	"Adult Comedy
+"	"Adult Comedy
+"
+403	35162	Krishna Cottage	2004	"Thriller
+"	"Thriller
+"
+404	35163	Kyun! Ho Gaya Na...	2004	"Romance, Drama, Comedy
+"	"Romance Drama Comedy
+"
+405	35164	Lakeer  Forbidden Lines	2004	"Action, Drama, Romance
+"	"Action Drama Romance
+"
+406	35165	Lakshya	2004	"War, Drama, Action, Romance
+"	"War Drama Action Romance
+"
+407	35166	Let's Enjoy	2004	"Adult Thriller
+"	"Adult Thriller
+"
+408	35167	Madhoshi	2004	"Drama, Romance, Thriller
+"	"Drama Romance Thriller
+"
+409	35168	Main Hoon Na	2004	"Action, Musical, Drama, Comedy
+"	"Action Musical Drama Comedy
+"
+410	35169	Maqbool	2004	"Mystery, Drama
+"	"Mystery Drama
+"
+411	35170	Masti	2004	"Comedy
+"	"Comedy
+"
+412	35171	Meenaxi: A Tale of Three Cities	2004	"Romance, Musical Drama
+"	"Romance Musical Drama
+"
+413	35172	Meri Biwi Ka Jawaab Nahin	2004	"Action, Comedy, Romance
+"	"Action Comedy Romance
+"
+414	35173	Mughal-e-Azam (Colorized Version)	2004	"Drama
+"	"Drama
+"
+415	35174	Mujhse Shaadi Karogi	2004	"Comedy, Romance, Musical
+"	"Comedy Romance Musical
+"
+416	35175	Murder	2004	"Thriller, Romance
+"	"Thriller Romance
+"
+417	35176	Musafir	2004	"Thriller
+"	"Thriller
+"
+418	35177	Muskaan	2004	"Romance, Drama
+"	"Romance Drama
+"
+419	35178	Naach	2004	"Drama
+"	"Drama
+"
+420	35179	Netaji Subhas Chandra Bose: The Forgotten Hero	2004	"
+"	"
+"
+421	35180	Nothing but Life	2004	"Drama
+"	"Drama
+"
+422	35181	Paap	2004	"Drama
+"	"Drama
+"
+423	35182	Paisa Vasool	2004	"Black Comedy
+"	"Black Comedy
+"
+424	35183	Phir Milenge	2004	"Drama, Social
+"	"Drama Social
+"
+425	35184	Plan	2004	"Action
+"	"Action
+"
+426	35185	Police Force: An Inside Story	2004	"Action
+"	"Action
+"
+427	35186	Popcorn Khao! Mast Ho Jao	2004	"
+"	"
+"
+428	35187	Raincoat	2004	"Drama
+"	"Drama
+"
+429	35188	Rakht	2004	"Horror
+"	"Horror
+"
+430	35189	Rok Sako To Rok Lo	2004	"Sports Comedy
+"	"Sports Comedy
+"
+431	35190	Rudraksh	2004	"Thriller
+"	"Thriller
+"
+432	35191	Run	2004	"Action, Drama, Romance
+"	"Action Drama Romance
+"
+433	35192	Shaadi Ka Laddoo	2004	"Comedy
+"	"Comedy
+"
+434	35193	Shart: The Challenge	2004	"Action, Drama
+"	"Action Drama
+"
+435	35194	Sheen	2004	"Romance
+"	"Romance
+"
+436	35195	Shikhaar	2004	"Drama
+"	"Drama
+"
+437	35196	Shukriya: Till Death Do Us Apart	2004	"Drama
+"	"Drama
+"
+438	35197	Silence Please...The Dressing Room	2004	"Thriller
+"	"Thriller
+"
+439	35198	Stop!	2004	"Romance, Drama
+"	"Romance Drama
+"
+440	35199	Suno Sasurjee	2004	"Romantic, Comedy
+"	"Romantic Comedy
+"
+441	35200	Swades	2004	"Drama, Social
+"	"Drama Social
+"
+442	35201	Taarzan: The Wonder Car	2004	"Fantasy Thriller
+"	"Fantasy Thriller
+"
+443	35202	Thoda Tum Badlo Thoda Hum	2004	"Romance
+"	"Romance
+"
+444	35203	Tumsa Nahin Dekha: A Love Story	2004	"Romance
+"	"Romance
+"
+445	35204	Uff Kya Jaadoo Mohabbat Hai	2004	"Romance
+"	"Romance
+"
+446	35205	Vaastu Shastra	2004	"Horror
+"	"Horror
+"
+447	35206	Veer-Zaara	2004	"Drama, Romance, Family, Musical
+"	"Drama Romance Family Musical
+"
+448	35207	Wajahh: A Reason to Kill	2004	"Thriller
+"	"Thriller
+"
+449	35208	Where's the Party Yaar?	2004	"Comedy
+"	"Comedy
+"
+450	35209	Woh	2004	"Thriller
+"	"Thriller
+"
+451	35210	Yeh Lamhe Judaai Ke	2004	"Drama
+"	"Drama
+"
+452	35211	Yehi Hai Zindagi	2004	"Drama
+"	"Drama
+"
+453	35212	Yuva	2004	"Drama, Action
+"	"Drama Action
+"
+454	35213	7½ Phere	2005	"Comedy
+"	"Comedy
+"
+455	35214	99.9 FM,	2005	"Crime / Thriller
+"	"Crime / Thriller
+"
+456	35215	Aashiq Banaya Aapne	2005	"Romance, Drama
+"	"Romance Drama
+"
+457	35216	Amavas	2005	"
+"	"
+"
+458	35218	Apaharan	2005	"Drama, Action
+"	"Drama Action
+"
+459	35219	Bachke Rehna Re Baba	2005	"Comedy
+"	"Comedy
+"
+460	35220	Barsaat	2005	"Romance, Drama, Family
+"	"Romance Drama Family
+"
+461	35221	Bewafaa	2005	"Drama, Romance
+"	"Drama Romance
+"
+462	35222	Bhagmati	2005	"Romance
+"	"Romance
+"
+463	35223	Bhola in Bollywood	2005	"Comedy
+"	"Comedy
+"
+464	35224	Black	2005	"Drama, Social
+"	"Drama Social
+"
+465	35225	Blackmail	2005	"Thriller, Drama
+"	"Thriller Drama
+"
+466	35226	Bluffmaster!	2005	"Comedy
+"	"Comedy
+"
+467	35227	Brides Wanted	2005	"Comedy
+"	"Comedy
+"
+468	35228	Bullet: Ek Dhamaka	2005	"Action
+"	"Action
+"
+469	35229	Bunty Aur Babli	2005	"Comedy, Crime, Romance, Musical
+"	"Comedy Crime Romance Musical
+"
+470	35230	Chaahat  Ek Nasha	2005	"Romance
+"	"Romance
+"
+471	35231	Chand Sa Roshan Chehra	2005	"Romance
+"	"Romance
+"
+472	35232	Chausar	2005	"
+"	"
+"
+473	35233	Chehraa	2005	"Thriller
+"	"Thriller
+"
+474	35234	Chetna: The Excitement	2005	"Erotic Drama
+"	"Erotic Drama
+"
+475	35235	Chocolate	2005	"Action, Thriller, Suspense
+"	"Action Thriller Suspense
+"
+476	35236	Chor Mandi	2005	"Comedy
+"	"Comedy
+"
+477	35237	Classic  Dance of Love	2005	"Erotic Thriller
+"	"Erotic Thriller
+"
+478	35238	D	2005	"Crime, Drama
+"	"Crime Drama
+"
+479	35239	Dansh	2005	"Drama
+"	"Drama
+"
+480	35240	Deewane Huye Paagal	2005	"Romantic Comedy
+"	"Romantic Comedy
+"
+481	35241	Dil Jo Bhi Kahey...	2005	"Family drama
+"	"Family drama
+"
+482	35242	Dosti: Friends Forever	2005	"Drama, Romance
+"	"Drama Romance
+"
+483	35243	Double Cross - Ek Dhoka	2005	"
+"	"
+"
+484	35244	Dreams	2005	"
+"	"
+"
+485	35245	Dus	2005	"Action, Thriller
+"	"Action Thriller
+"
+486	35246	Ek Ajnabee	2005	"Thriller
+"	"Thriller
+"
+487	35247	Ek Khiladi Ek Haseena	2005	"Thriller
+"	"Thriller
+"
+488	35248	Elaan	2005	"Action, Drama
+"	"Action Drama
+"
+489	35249	Fareb	2005	"Thriller
+"	"Thriller
+"
+490	35250	Film Star	2005	"
+"	"
+"
+491	35251	Fun  Can Be Dangerous Sometimes	2005	"Erotic Drama
+"	"Erotic Drama
+"
+492	35252	Garam Masala	2005	"Comedy
+"	"Comedy
+"
+493	35253	Hanuman	2005	"
+"	"
+"
+494	35254	Hazaaron Khwaishein Aisi	2005	"Drama
+"	"Drama
+"
+495	35255	Home Delivery	2005	"Comedy
+"	"Comedy
+"
+496	35256	Hum Dum	2005	"Romance
+"	"Romance
+"
+497	35257	Insan	2005	"Action, Thriller
+"	"Action Thriller
+"
+498	35258	Iqbal	2005	"Sports, Drama, Social
+"	"Sports Drama Social
+"
+499	35259	Jackpot	2005	"Erotic, Crime
+"	"Erotic Crime
+"
+500	35260	Jai Chiranjeeva	2005	"Drama
+"	"Drama
+"
+501	35261	Jalwa - Fun in Love	2005	"Erotic romance
+"	"Erotic romance
+"
+502	35262	James	2005	"Action
+"	"Action
+"
+503	35263	Jo Bole So Nihaal	2005	"Action, Comedy
+"	"Action Comedy
+"
+504	35264	Jurm	2005	"Thriller
+"	"Thriller
+"
+505	35265	Kaal	2005	"Horror, Thriller
+"	"Horror Thriller
+"
+506	35266	Kalyug	2005	"Drama
+"	"Drama
+"
+507	35267	Karam	2005	"Thriller
+"	"Thriller
+"
+508	35268	Kasak	2005	"
+"	"
+"
+509	35269	Khamoshh... Khauff Ki Raat	2005	"Thriller
+"	"Thriller
+"
+510	35270	Kisna: The Warrior Poet	2005	"Drama, Historical
+"	"Drama Historical
+"
+511	35271	Koi Aap Sa	2005	"Drama, Romance
+"	"Drama Romance
+"
+512	35272	Koi Mere Dil Mein Hai	2005	"
+"	"
+"
+513	35273	Kuchh Meetha Ho Jaye	2005	"Comedy, Drama, Romance
+"	"Comedy Drama Romance
+"
+514	35274	Kyaa Kool Hai Hum	2005	"Comedy
+"	"Comedy
+"
+515	35275	Kyon Ki	2005	"Drama, Romance
+"	"Drama Romance
+"
+516	35276	Lucky: No Time for Love	2005	"Romance, Musical
+"	"Romance Musical
+"
+517	35277	Main Aisa Hi Hoon	2005	"Drama
+"	"Drama
+"
+518	35278	Main, Meri Patni Aur Woh	2005	"
+"	"
+"
+519	35279	Maine Gandhi Ko Nahin Mara	2005	"Drama, Social
+"	"Drama Social
+"
+520	35280	Maine Pyaar Kyun Kiya?	2005	"Comedy
+"	"Comedy
+"
+521	35281	Mangal Pandey: The Rising	2005	"Drama, Historical
+"	"Drama Historical
+"
+522	35282	Mashooka	2005	"Erotic thriller
+"	"Erotic thriller
+"
+523	35283	Mazaa Mazaa	2005	"
+"	"
+"
+524	35284	Men Not Allowed	2005	"Romance
+"	"Romance
+"
+525	35285	Morning Raga	2005	"
+"	"
+"
+526	35286	Mr Ya Miss	2005	"Comedy
+"	"Comedy
+"
+527	35287	Mr Prime Minister	2005	"Drama
+"	"Drama
+"
+528	35288	Mumbai Xpress	2005	"
+"	"
+"
+529	35289	Mumbai Godfather	2005	"Drama
+"	"Drama
+"
+530	35290	My Brother... Nikhil	2005	"Drama, Social
+"	"Drama Social
+"
+531	35291	My Wife's Murder	2005	"Drama, Thriller
+"	"Drama Thriller
+"
+532	35292	Naam Gum Jaayega	2005	"Romance
+"	"Romance
+"
+533	35293	Naina	2005	"Horror, Thriller
+"	"Horror Thriller
+"
+534	35294	Neal 'n' Nikki	2005	"Comedy, Romance
+"	"Comedy Romance
+"
+535	35295	Nigehbaan	2005	"
+"	"
+"
+536	35296	No Entry	2005	"Comedy
+"	"Comedy
+"
+537	35297	Padmashree Laloo Prasad Yadav	2005	"Comedy
+"	"Comedy
+"
+538	35298	Page 3	2005	"Drama, Social
+"	"Drama Social
+"
+539	35299	Pehchaan: The Face of Truth	2005	"Drama
+"	"Drama
+"
+540	35300	Paheli	2005	"Fantasy, Romance, Musical
+"	"Fantasy Romance Musical
+"
+541	35301	Parineeta	2005	"Drama
+"	"Drama
+"
+542	35302	Pyaar Mein Twist	2005	"Drama, Romance
+"	"Drama Romance
+"
+543	35303	Ramji Londonwale	2005	"
+"	"
+"
+544	35304	Revati	2005	"
+"	"
+"
+545	35305	Rog	2005	"Drama, Thriller
+"	"Drama Thriller
+"
+546	35306	Saathi: The Companion	2005	"
+"	"
+"
+547	35307	Salaam Namaste	2005	"Romance, Comedy, Drama, Social
+"	"Romance Comedy Drama Social
+"
+548	35308	Sarkar	2005	"Crime, Drama
+"	"Crime Drama
+"
+549	35309	Sauda - The Deal	2005	"
+"	"
+"
+550	35310	Sehar	2005	"
+"	"
+"
+551	35311	Shaadi No. 1	2005	"Comedy, Romance
+"	"Comedy Romance
+"
+552	35312	Shabd	2005	"Drama
+"	"Drama
+"
+553	35313	Shabnam Mausi	2005	"
+"	"
+"
+554	35314	Sheesha	2005	"
+"	"
+"
+555	35316	Shikhar	2005	"Drama
+"	"Drama
+"
+556	35317	Silsiilay	2005	"Romance
+"	"Romance
+"
+557	35318	Sitam	2005	"
+"	"
+"
+558	35319	Socha Na Tha	2005	"Romance, Comedy
+"	"Romance Comedy
+"
+559	35320	Ssukh	2005	"
+"	"
+"
+560	35321	Taj Mahal: An Eternal Love Story	2005	"History, Epic, Romance
+"	"History Epic Romance
+"
+561	35322	Tango Charlie	2005	"War, Drama
+"	"War Drama
+"
+562	35323	Tezaab	2005	"Erotic
+"	"Erotic
+"
+563	35324	The Film	2005	"Thriller
+"	"Thriller
+"
+564	35325	Time Pass	2005	"
+"	"
+"
+565	35326	Topless	2005	"
+"	"
+"
+566	35327	U, Bomsi n Me	2005	"
+"	"
+"
+567	35328	Vaada	2005	"Thriller
+"	"Thriller
+"
+568	35329	Vaah! Life Ho Toh Aisi!	2005	"Fantasy, Comedy
+"	"Fantasy Comedy
+"
+569	35330	Vidyaarthi	2005	"
+"	"
+"
+570	35331	Viruddh... Family Comes First	2005	"Drama
+"	"Drama
+"
+571	35332	Waqt: The Race Against Time	2005	"Drama
+"	"Drama
+"
+572	35333	Yahaan	2005	"Romance
+"	"Romance
+"
+573	35334	Yakeen	2005	"Drama
+"	"Drama
+"
+574	35335	Zameer: The Fire Within	2005	"Drama
+"	"Drama
+"
+575	35336	Zeher	2005	"Drama, Thriller
+"	"Drama Thriller
+"
+576	35337	36 China Town	2006	Thriller, Mystery	Thriller Mystery
+577	35338	Aap Ki Khatir	2006	Comedy, Romance, Social	Comedy Romance Social
+578	35339	Aatma	2006	Horror	Horror
+579	35340	Adharm	2006	Action, Crime, Drama	Action Crime Drama
+580	35341	Ahista Ahista	2006	Drama, Romance	Drama Romance
+581	35342	Aisa Kyon Hota Hai?	2006	Drama	Drama
+582	35343	Aksar	2006	Thriller	Thriller
+583	35344	Alag	2006	Drama	Drama
+584	35345	Anjaan	2006	Action, Crime, Thriller	Action Crime Thriller
+585	35346	Ankahee	2006	Drama, Romance, Crime	Drama Romance Crime
+586	35347	Anthony Kaun Hai?	2006	Comedy, Thriller	Comedy Thriller
+587	35348	Apna Sapna Money Money	2006	Comedy	Comedy
+588	35349	Aryan: Unbreakable	2006	Action, Sports, Romance	Action Sports Romance
+589	35350	Baabul	2006	Drama, Romance, Family, Social	Drama Romance Family Social
+590	35351	Banaras	2006	Drama, Social	Drama Social
+591	35352	Bas Ek Pal	2006	Drama, Romance, Thriller	Drama Romance Thriller
+592	35353	Being Cyrus	2006	Drama, Comedy	Drama Comedy
+593	35354	Bhagam Bhag	2006	Comedy, Musical	Comedy Musical
+594	35355	Bhoot Unkle	2006	Comedy	Comedy
+595	35356	Chand Ke Paar Chalo	2006	Romance	Romance
+596	35357	Chingaari	2006	Drama, Social	Drama Social
+597	35358	Chup Chup Ke	2006	Comedy, Romance	Comedy Romance
+598	35359	Corporate	2006	Drama, Thriller, Business	Drama Thriller Business
+599	35360	Darna Zaroori Hai	2006	Horror	Horror
+600	35361	Darwaaza Bandh Rakho	2006	Comedy, Crime	Comedy Crime
+601	35362	Deadline: Sirf 24 Ghante	2006	Crime, Thriller	Crime Thriller
+602	35363	Devaki	2006	Drama	Drama
+603	35364	Dharti Kahe Pukar Ke	2006	Drama	Drama
+604	35365	Dhoom 2	2006	Thriller, Action, Romance, Musical	Thriller Action Romance Musical
+605	35366	Dil Diya Hai	2006	Thriller	Thriller
+606	35367	Don	2006	Thriller, Action, Drama	Thriller Action Drama
+607	35368	Dor	2006	Drama, Social	Drama Social
+608	35369	Dulha Babu	2006	Drama	Drama
+609	35370	Eight: The Power of Shani	2006		
+610	35371	Ek Main Ek Tum	2006	Romance	Romance
+611	35372	Family	2006	Drama, Thriller	Drama Thriller
+612	35373	Fanaa	2006	Drama, Romance, Thriller, Musical	Drama Romance Thriller Musical
+613	35374	Fight Club  Members Only	2006	Action, Thriller	Action Thriller
+614	35375	Gangster	2006	Drama, Romance, Thriller, Musical	Drama Romance Thriller Musical
+615	35376	Golmaal: Fun Unlimited	2006	Comedy	Comedy
+616	35377	Haseena	2006	Thriller, Comedy	Thriller Comedy
+617	35378	Holiday	2006	Romance	Romance
+618	35379	Humko Deewana Kar Gaye	2006	Romance, Drama, Musical	Romance Drama Musical
+619	35380	Humko Tumse Pyaar Hai	2006	Drama, Romance	Drama Romance
+620	35381	Iqraar by Chance	2006	Action, Drama	Action Drama
+621	35382	I See You	2006	Drama, Romance, Social	Drama Romance Social
+622	35383	Jaane Hoga Kya	2006	Supensene, Thriller, Sci-fi	Supensene Thriller Sci-fi
+623	35384	Jaadu Sa Chal Gaya	2006		
+624	35385	Jaana - Let's Fall In Love	2006	Comedy, Drama, Romance	Comedy Drama Romance
+625	35386	Jaan-E-Mann	2006	Drama, Romance, Musical, Comedy	Drama Romance Musical Comedy
+626	35387	Jawani Diwani	2006	Comedy, Adult	Comedy Adult
+627	35388	Jigyaasa	2006	Social, Adult	Social Adult
+628	35389	Kabul Express	2006	Drama, Thriller, War	Drama Thriller War
+629	35390	Kabhi Alvida Naa Kehna	2006	Drama, Romance, Musical, Comedy, Family, Social	Drama Romance Musical Comedy Family Social
+630	35391	Khosla Ka Ghosla	2006	Comedy	Comedy
+631	35392	Krishna	2006	Action, Drama, Romance	Action Drama Romance
+632	35393	Krrish	2006	Superhero, Action, Fantasy, Romance, Musical	Superhero Action Fantasy Romance Musical
+633	35394	Kudiyon Ka Hai Zamana	2006	Comedy	Comedy
+634	35395	Lady Chatterjee - Sawan Dutta	2006		
+635	35396	Lage Raho Munna Bhai	2006	Comedy, Social, Musical	Comedy Social Musical
+636	35397	Love Ke Chakkar Mein	2006	Romance, Comedy	Romance Comedy
+637	35398	Madhubaala	2006	Thriller	Thriller
+638	35399	Malamaal Weekly	2006	Comedy	Comedy
+639	35400	Mere Jeevan Saathi	2006	Drama, Romance	Drama Romance
+640	35401	Meri Jung	2006	Action, Drama	Action Drama
+641	35402	Mirza Sahiba	2006	N/A	N/A
+642	35403	Mobile Phone	2006	Sci-Fi	Sci-Fi
+643	35404	Mr 100% - The Real Player	2006		
+644	35405	Naksha	2006	Thriller, Fantasy	Thriller Fantasy
+645	35406	Omkara	2006	Drama, Social, Action	Drama Social Action
+646	35407	Phir Hera Pheri	2006	Comedy	Comedy
+647	35408	Prateeksha	2006	Romance	Romance
+648	35409	Pyaar Ke Side Effects	2006	Comedy, Romance	Comedy Romance
+649	35410	Pyare Mohan	2006	Comedy	Comedy
+650	35411	Rafta Rafta	2006	Comedy, Romance	Comedy Romance
+651	35412	Rang De Basanti	2006	Drama, Patriotic, Social	Drama Patriotic Social
+652	35413	Rehguzar - The Road to Destiny	2006		
+653	35414	Rocky	2006	Action, Romance	Action Romance
+654	35415	Saawan... The Love Season	2006	Drama, Romance	Drama Romance
+655	35416	Sacred Evil  A True Story	2006	Horror, Thriller	Horror Thriller
+656	35417	Salaam Bacche	2006	Drama, Family	Drama Family
+657	35418	Sandwich	2006	Comedy	Comedy
+658	35419	Sarhad Paar	2006	Drama	Drama
+659	35420	Shaadi Karke Phas Gaya Yaar	2006	Drama, Romance	Drama Romance
+660	35421	Shaadi Se Pehle	2006	Comedy, Romance	Comedy Romance
+661	35423	Shiva	2006	Action, Crime, Drama	Action Crime Drama
+662	35424	Souten: The Other Woman	2006	Drama	Drama
+663	35425	Strings - Bound By Faith	2006		
+664	35426	Sun Zara	2006		
+665	35427	Tathastu	2006	Drama, Family	Drama Family
+666	35428	Taxi No. 9211	2006	Social, Thriller	Social Thriller
+667	35429	Teesri Aankh: The Hidden Camera	2006	Action, Thriller	Action Thriller
+668	35430	The Killer	2006	Action, Adventure, Crime	Action Adventure Crime
+669	35431	The Real Dream Girls	2006	B-grade	B-grade
+670	35432	Tom Dick And Harry	2006	Comedy	Comedy
+671	35433	Umar	2006	Crime, Drama, Musical	Crime Drama Musical
+672	35434	Umrao Jaan	2006	Drama, Romance, Social, Historical	Drama Romance Social Historical
+673	35435	Unns...Means Love	2006		
+674	35436	Utthaan	2006	Drama, Romance, Thriller	Drama Romance Thriller
+675	35437	Vivah	2006	Romance, Drama	Romance Drama
+676	35438	Waris Shah: Ishq Daa Waaris	2006	Drama, History	Drama History
+677	35439	Woh Lamhe...	2006	Drama, Romance, Social	Drama Romance Social
+678	35440	Yun Hota Toh Kya Hota	2006	Drama	Drama
+679	35441	Zinda	2006	Thriller	Thriller
+680	35442	Zindaggi Rocks	2006	Drama	Drama
+681	35443	1971	2007	"War
+"	"War
+"
+682	35444	50 Lakh	2007	"
+"	"
+"
+683	35445	68 Pages	2007	"
+"	"
+"
+684	35446	Aag	2007	"Action, Thriller
+"	"Action Thriller
+"
+685	35447	Aaja Nachle	2007	"Musical
+"	"Musical
+"
+686	35448	Aap Kaa Surroor	2007	"Drama, Thriller, Romance
+"	"Drama Thriller Romance
+"
+687	35449	Aggar	2007	"Drama, Thriller
+"	"Drama Thriller
+"
+688	35450	Anjaam	2007	"Thriller
+"	"Thriller
+"
+689	35451	Anwar	2007	"Drama
+"	"Drama
+"
+690	35452	Apna Asmaan	2007	"
+"	"
+"
+691	35453	Apne	2007	"Family, Drama, Sports
+"	"Family Drama Sports
+"
+692	35454	Aur Pappu Paas Ho Gaya	2007	"
+"	"
+"
+693	35455	Awarapan	2007	"Action, Drama
+"	"Action Drama
+"
+694	35456	Bal Ganesh	2007	"Mythological
+"	"Mythological
+"
+695	35457	Benaam	2007	"Action
+"	"Action
+"
+696	35458	Bheja Fry	2007	"Comedy
+"	"Comedy
+"
+697	35459	Bhool Bhulaiyaa	2007	"Mystery, Thriller, Comedy
+"	"Mystery Thriller Comedy
+"
+698	35460	Bhram	2007	"Thriller
+"	"Thriller
+"
+699	35461	Big Brother	2007	"Action, Drama, Romance, Crime
+"	"Action Drama Romance Crime
+"
+700	35462	Black Friday	2007	"Crime Fiction, Drama, Historical
+"	"Crime Fiction Drama Historical
+"
+701	35463	Blood Brothers	2007	"Short Film
+"	"Short Film
+"
+702	35464	The Blue Umbrella	2007	"
+"	"
+"
+703	35465	Bombay to Goa 	2007	"Comedy
+"	"Comedy
+"
+704	35466	Buddha Mar Gaya	2007	"Comedy
+"	"Comedy
+"
+705	35467	Cash	2007	"Thriller
+"	"Thriller
+"
+706	35468	Chak De! India	2007	"Sports
+"	"Sports
+"
+707	35469	Chanchal	2007	"Drama, Musical
+"	"Drama Musical
+"
+708	35470	Cheeni Kum	2007	"Romance, Comedy, Drama
+"	"Romance Comedy Drama
+"
+709	35471	Chhodon Naa Yaar	2007	"Horror
+"	"Horror
+"
+710	35472	Chooriyan	2007	"Family, Drama
+"	"Family Drama
+"
+711	35473	Cocktail: The Deadly Combination	2007	"Thriller
+"	"Thriller
+"
+712	35474	Darling	2007	"Thriller, Horror, Romance, Mystery
+"	"Thriller Horror Romance Mystery
+"
+713	35475	Delhii Heights	2007	"
+"	"
+"
+714	35476	Dhamaal	2007	"Comedy
+"	"Comedy
+"
+715	35477	Goal	2007	"Sports
+"	"Sports
+"
+716	35478	Dharm	2007	"
+"	"
+"
+717	35479	Dhokha	2007	"
+"	"
+"
+718	35480	Dhol	2007	"Comedy
+"	"Comedy
+"
+719	35481	Dil Dosti Etc	2007	"
+"	"
+"
+720	35482	Don't Stop Dreaming	2007	"Drama
+"	"Drama
+"
+721	35483	Dus Kahaniyaan	2007	"Drama
+"	"Drama
+"
+722	35484	Ek Chalis Ki Last Local	2007	"
+"	"
+"
+723	35485	Eklavya: The Royal Guard	2007	"Drama
+"	"Drama
+"
+724	35486	Familywala	2007	"
+"	"
+"
+725	35487	Fool & Final	2007	"Action, Comedy, Romance, Musical
+"	"Action Comedy Romance Musical
+"
+726	35488	Gandhi, My Father	2007	"Drama
+"	"Drama
+"
+727	35489	Gangotri	2007	"Drama
+"	"Drama
+"
+728	35490	Gauri: The Unborn	2007	"Horror
+"	"Horror
+"
+729	35491	Go	2007	"
+"	"
+"
+730	35492	Good Boy, Bad Boy	2007	"Comedy
+"	"Comedy
+"
+731	35493	Guru	2007	"Drama, Romance
+"	"Drama Romance
+"
+732	35494	Har Pal	2007	"Romance
+"	"Romance
+"
+733	35495	Hastey Hastey	2007	"Comedy
+"	"Comedy
+"
+734	35496	Hattrick	2007	"Comedy
+"	"Comedy
+"
+735	35497	Heyy Babyy	2007	"Comedy, Drama, Romance
+"	"Comedy Drama Romance
+"
+736	35498	Honeymoon Travels Pvt. Ltd.	2007	"Comedy, Drama, Romance
+"	"Comedy Drama Romance
+"
+737	35499	Jab We Met	2007	"Romance, comedy
+"	"Romance comedy
+"
+738	35500	Jahan Jaaeyega Hamen Paaeyega	2007	"Comedy
+"	"Comedy
+"
+739	35501	Jhoom Barabar Jhoom	2007	"Romance, Comedy
+"	"Romance Comedy
+"
+740	35502	Johnny Gaddaar	2007	"Thriller
+"	"Thriller
+"
+741	35503	Just Married	2007	"Drama, Romance, Social, Comedy
+"	"Drama Romance Social Comedy
+"
+742	35504	Kaafila	2007	"Action, Patriotic
+"	"Action Patriotic
+"
+743	35505	Khoya Khoya Chand	2007	"Romance, Drama
+"	"Romance Drama
+"
+744	35506	Kya Love Story Hai	2007	"Romance
+"	"Romance
+"
+745	35507	Laaga Chunari Mein Daag	2007	"Drama
+"	"Drama
+"
+746	35508	Life in a... Metro	2007	"Drama
+"	"Drama
+"
+747	35509	Life Mein Kabhie Kabhiee	2007	"Thriller
+"	"Thriller
+"
+748	35510	Loins of Punjab Presents	2007	"Musical, Drama
+"	"Musical Drama
+"
+749	35511	Manorama Six Feet Under	2007	"Thriller
+"	"Thriller
+"
+750	35512	Marigold	2007	"Romance |
+"	"Romance |
+"
+751	35513	MP3: Mera Pehla Pehla Pyaar	2007	"Romance
+"	"Romance
+"
+752	35514	Mumbai Salsa	2007	"
+"	"
+"
+753	35515	My Bollywood Bride	2007	"Romance
+"	"Romance
+"
+754	35516	Namastey London	2007	"Romance, Comedy, Drama, Social
+"	"Romance Comedy Drama Social
+"
+755	35517	The Namesake	2007	"Drama
+"	"Drama
+"
+756	35518	Nanhe Jaisalmer	2007	"Drama
+"	"Drama
+"
+757	35519	Naqaab	2007	"Thriller
+"	"Thriller
+"
+758	35520	Nehlle Pe Dehlla	2007	"Comedy
+"	"Comedy
+"
+759	35521	Nishabd	2007	"Drama
+"	"Drama
+"
+760	35522	No Smoking	2007	"Drama, Thriller
+"	"Drama Thriller
+"
+761	35523	Oh My Anand	2007	"Comedy
+"	"Comedy
+"
+762	35524	Om Shanti Om	2007	"Action, Romance, Comedy, Drama
+"	"Action Romance Comedy Drama
+"
+763	35525	Partner	2007	"Comedy, Romance
+"	"Comedy Romance
+"
+764	35526	Raqeeb	2007	"Romance
+"	"Romance
+"
+765	35527	Red: The Dark Side	2007	"Thriller
+"	"Thriller
+"
+766	35528	Red Swastik	2007	"Thriller
+"	"Thriller
+"
+767	35529	Risk	2007	"Action, Drama
+"	"Action Drama
+"
+768	35530	Salaam-e-Ishq: A Tribute to Love	2007	"Romance
+"	"Romance
+"
+769	35531	Saawariya	2007	"Drama, romance
+"	"Drama romance
+"
+770	35533	Sambar Salsa	2007	"
+"	"
+"
+771	35534	Say Salaam India	2007	"Cricket
+"	"Cricket
+"
+772	35535	Shakalaka Boom Boom	2007	"Drama, social, musical, romance
+"	"Drama social musical romance
+"
+773	35536	Shootout at Lokhandwala	2007	"Action, crime, drama
+"	"Action crime drama
+"
+774	35537	Showbiz	2007	"
+"	"
+"
+775	35538	Speed	2007	"Thriller
+"	"Thriller
+"
+776	35539	Strangers	2007	"
+"	"
+"
+777	35540	Sunglass	2007	"
+"	"
+"
+778	35541	Swami	2007	"Drama
+"	"Drama
+"
+779	35542	Ta Ra Rum Pum	2007	"Romance, drama, social
+"	"Romance drama social
+"
+780	35543	Taare Zameen Par	2007	"Drama
+"	"Drama
+"
+781	35544	Traffic Signal	2007	"Drama
+"	"Drama
+"
+782	35545	The Train	2007	"
+"	"
+"
+783	35546	Victoria No. 203	2007	"Comedy
+"	"Comedy
+"
+784	35547	Welcome	2007	"Comedy
+"	"Comedy
+"
+785	35548	Yatra	2007	"
+"	"
+"
+786	35549	Zamaanat	2007	"Drama
+"	"Drama
+"
+787	35560	Humne Jeena Seekh Liya	2008	Comedy	Comedy
+788	35561	Rama Rama Kya Hai Dramaa?	2008	Comedy	Comedy
+789	35562	Halla Bol	2008	Social	Social
+790	35563	Bombay to Bangkok	2008	Comedy, Drama, Romance	Comedy Drama Romance
+791	35564	Tulsi	2008	N/A	N/A
+792	35565	Sunday	2008	Action, Comedy	Action Comedy
+793	35566	Superstar	2008	Drama	Drama
+794	35567	Jodhaa Akbar	2008	History, Romance	History Romance
+795	35568	Black & White	2008	Social, Drama, History	Social Drama History
+796	35569	Race	2008	Crime, Thriller	Crime Thriller
+797	35570	One Two Three	2008	Comedy, Drama	Comedy Drama
+798	35571	Shaurya	2008	Drama	Drama
+799	35572	Krazzy 4	2008	Comedy	Comedy
+800	35573	U Me Aur Hum	2008	Romance	Romance
+801	35574	Pehli Nazar Ka Pyaar	2008	Romance	Romance
+802	35575	Sirf	2008	Drama, Romance	Drama Romance
+803	35576	Tashan	2008	action, Romance	action Romance
+804	35577	Mr. Black Mr. White	2008	Comedy	Comedy
+805	35578	Anamika	2008	Thriller	Thriller
+806	35579	Jimmy	2008	Drama, action, Crime, Thriller, Romance	Drama action Crime Thriller Romance
+807	35580	Bhoothnath	2008	Comedy, Drama, Fantasy	Comedy Drama Fantasy
+808	35581	Jannat	2008	Drama, Romance	Drama Romance
+809	35582	Don Muthu Swami	2008	Comedy	Comedy
+810	35583	Ghatothkach	2008	Fantasy	Fantasy
+811	35584	Woodstock Villa	2008	Thriller	Thriller
+812	35585	Aamir	2008	Drama, Thriller	Drama Thriller
+813	35586	Sarkar Raj	2008	action, Crime, Drama, Thriller	action Crime Drama Thriller
+814	35587	Mere Baap Pehle Aap	2008	Comedy	Comedy
+815	35588	Summer 2007	2008	Crime, Drama, Thriller	Crime Drama Thriller
+816	35589	De Taali	2008	Comedy, Romance	Comedy Romance
+817	35590	Haal-e-Dil	2008	Drama, Romance	Drama Romance
+818	35591	Thoda Pyaar Thoda Magic	2008	Drama, Romance, Fantasy	Drama Romance Fantasy
+819	35592	Thodi Life Thoda Magic	2008	Drama	Drama
+820	35593	Via Darjeeling	2008	Drama, Mystery, Thriller	Drama Mystery Thriller
+821	35594	Jaane Tu... Ya Jaane Na	2008	Romance	Romance
+822	35595	Love Story 2050	2008	Drama, Musical, Romance	Drama Musical Romance
+823	35596	Mehbooba	2008	Romance	Romance
+824	35597	Kismat Konnection	2008	Comedy, Drama, Romance	Comedy Drama Romance
+825	35598	Contract	2008	Thriler, Spy	Thriler Spy
+826	35599	Mission Istaanbul	2008	Adventure	Adventure
+827	35600	Money Hai Toh Honey Hai	2008	Comedy, Drama, Romance	Comedy Drama Romance
+828	35601	Ugly Aur Pagli	2008	Comedy	Comedy
+829	35602	Good Luck!	2008	Comedy, Drama	Comedy Drama
+830	35603	Singh Is Kinng	2008	action, Comedy, Crime, Romance	action Comedy Crime Romance
+831	35604	Bachna Ae Haseeno	2008	Comedy, Drama, Romance	Comedy Drama Romance
+832	35605	God Tussi Great Ho	2008	Comedy, Romance	Comedy Romance
+833	35606	Phoonk	2008	Horror	Horror
+834	35607	Mumbai Meri Jaan	2008	Drama	Drama
+835	35608	Maan Gaye Mughal-e-Azam	2008	Comedy	Comedy
+836	35609	Rock On!!	2008	Drama, Romance, Musical	Drama Romance Musical
+837	35610	C Kkompany	2008	Comedy	Comedy
+838	35611	Chamku	2008	Musical, Romance, Thriller	Musical Romance Thriller
+839	35612	Mukhbiir	2008	Thriller	Thriller
+840	35613	A Wednesday!	2008	Drama, Thriller	Drama Thriller
+841	35614	Tahaan	2008	Adventure, Drama	Adventure Drama
+842	35615	1920	2008	Horror, Mystery, Romance, Thriller	Horror Mystery Romance Thriller
+843	35616	The Last Lear	2008	Biography, Drama	Biography Drama
+844	35617	Welcome to Sajjanpur	2008	Comedy, Drama	Comedy Drama
+845	35618	Saas Bahu Aur Sensex	2008	Comedy	Comedy
+846	35619	Hari Puttar: A Comedy of Terrors	2008	Comedy	Comedy
+847	35620	Kidnap	2008	Crime, Thriller	Crime Thriller
+848	35621	Drona	2008	Superhero, action, Adventure, Fantasy	Superhero action Adventure Fantasy
+849	35622	Hello	2008	Drama, Romance	Drama Romance
+850	35623	Karzzzz	2008	action, Romance	action Romance
+851	35624	Heroes	2008	Drama	Drama
+852	35625	Roadside Romeo	2008	Animation, Family, Romance	Animation Family Romance
+853	35626	Golmaal Returns	2008	Comedy	Comedy
+854	35627	Fashion	2008	Drama, Romance	Drama Romance
+855	35628	EMI - Liya Hai Toh Chukana Parega	2008	Comedy, Social	Comedy Social
+856	35629	Ek Vivaah... Aisa Bhi	2008	Drama	Drama
+857	35630	Dostana	2008	Comedy	Comedy
+858	35631	Dasvidaniya	2008	Comedy, Drama, Musical, Romance	Comedy Drama Musical Romance
+859	35632	Deshdrohi	2008	Politics	Politics
+860	35633	Yuvvraaj	2008	Musical, Drama, Romance, Family	Musical Drama Romance Family
+861	35634	Gumnaam  The Mystery	2008	Thriller, Mystery	Thriller Mystery
+862	35635	Oye Lucky! Lucky Oye!	2008	Comedy, Drama	Comedy Drama
+863	35636	Sorry Bhai!	2008	Romance	Romance
+864	35637	Maharathi	2008	Thriller	Thriller
+865	35638	Dil Kabaddi	2008	Comedy, Romance	Comedy Romance
+866	35639	Meerabai Not Out	2008	Drama	Drama
+867	35640	Oh, My God	2008	Comedy	Comedy
+868	35641	Rab Ne Bana Di Jodi	2008	Romance	Romance
+869	35642	Wafaa	2008	Romance, Drama, Romance	Romance Drama Romance
+870	35643	Ghajini	2008	action, Drama, Mystery, Romance, Thriller	action Drama Mystery Romance Thriller
+871	35644	Jumbo	2008	Animation	Animation
+872	35655	Chandni Chowk to China	2009	Action, Comedy	Action Comedy
+873	35656	Aasma: The Sky Is the Limit	2009	Drama	Drama
+874	35657	Raaz: The Mystery Continues	2009	Horror	Horror
+875	35658	Luck by Chance	2009	Drama	Drama
+876	35659	Victory	2009	Sports	Sports
+877	35660	Dev.D	2009	Romance	Romance
+878	35661	Chal Chala Chal	2009	Comedy	Comedy
+879	35662	Mere Khwabon Mein Jo Aaye	2009	Drama, Fantasy, Musical	Drama Fantasy Musical
+880	35663	Billu	2009	Drama	Drama
+881	35664	The Stoneman Murders	2009	Crime, Drama, Mystery	Crime Drama Mystery
+882	35665	Delhi-6	2009	Romance, Drama	Romance Drama
+883	35666	Kisse Pyaar Karoon	2009	Romance	Romance
+884	35667	"13B
+"	2009	Horror	Horror
+885	35668	"Dhoondte Reh Jaaoge
+"	2009	Comedy	Comedy
+886	35669	"Karma Aur Holi
+"	2009	Drama	Drama
+887	35670	"Jai Veeru
+"	2009	Action Comedy	Action Comedy
+888	35671	"Little Zizou
+"	2009	Comedy	Comedy
+889	35672	"Gulaal
+"	2009	Drama	Drama
+890	35673	"Aloo Chaat
+"	2009	Romantic Comedy	Romantic Comedy
+891	35674	"Barah Aana
+"	2009	Drama	Drama
+892	35675	"Firaaq
+"	2009	Political	Political
+893	35676	"Lottery
+"	2009	Comedy	Comedy
+894	35677	"Straight
+"	2009	Romantic Comedy	Romantic Comedy
+895	35678	"Aa Dekhen Zara
+"	2009	Action, Thriller	Action Thriller
+896	35679	"99
+"	2009	Comedy	Comedy
+897	35680	"Ek: The Power of One
+"	2009	Action Thriller	Action Thriller
+898	35681	8 x 10 Tasveer	2009	Thriller	Thriller
+899	35682	Ek Se Bure Do	2009	Comedy	Comedy
+900	35683	Pal Pal Dil Ke Saath	2009	Drama	Drama
+901	35684	Coffee House	2009	Drama	Drama
+902	35685	School Days	2009	Animation, Drama, Romance	Animation Drama Romance
+903	35686	Royal Utsav	2009	Historical Drama	Historical Drama
+904	35687	Chowrasta Crossroads of Love	2009	Drama	Drama
+905	35688	Meri Padosan	2009	Comedy	Comedy
+906	35689	Sikandar	2009	Social	Social
+907	35690	Sanam Teri Kasam	2009	Comedy, Romance	Comedy Romance
+908	35691	Team - The Force	2009	Action	Action
+909	35692	Kal Kissne Dekha	2009	Romance, Drama, Social, Comedy	Romance Drama Social Comedy
+910	35693	Zor Lagaa Ke...Haiya!	2009	Comedy, Drama, Family	Comedy Drama Family
+911	35694	Let's Dance	2009	Romance	Romance
+912	35695	Paying Guests	2009	Comedy	Comedy
+913	35696	New York	2009	Action Thriller, Romance	Action Thriller Romance
+914	35697	Kambakkht Ishq	2009	Action, comedy, romance	Action comedy romance
+915	35698	Sankat City	2009	Dark comedy	Dark comedy
+916	35699	Shortkut	2009	Comedy	Comedy
+917	35700	Jashnn	2009	Musical	Musical
+918	35701	Luck	2009	Action thriller	Action thriller
+919	35702	Love Aaj Kal	2009	Romance	Romance
+920	35703	Agyaat	2009	Horror	Horror
+921	35704	Chal Chalein	2009	Social	Social
+922	35705	Teree Sang	2009	Drama	Drama
+923	35706	Kaminey	2009	Drama	Drama
+924	35707	Life Partner	2009	Comedy, romance	Comedy romance
+925	35708	Phir Kabhi	2009	Romance	Romance
+926	35709	Daddy Cool	2009	Comedy	Comedy
+927	35710	Kisaan	2009	Social	Social
+928	35711	Love Khichdi	2009	Comedy	Comedy
+929	35712	Quick Gun Murugun	2009	Comedy	Comedy
+930	35713	Toss	2009	Thriller	Thriller
+931	35714	Yeh Mera India	2009	Social	Social
+932	35715	Three: Love, Lies, Betrayal	2009	Thriller	Thriller
+933	35716	Aagey Se Right	2009	Comedy	Comedy
+934	35717	Chintu Ji	2009	Comedy	Comedy
+935	35718	Fox	2009	Drama	Drama
+936	35719	Aamras	2009	Drama	Drama
+937	35720	Baabarr	2009	Action	Action
+938	35722	Vaada Raha	2009	Romance	Romance
+939	35723	Dil Bole Hadippa!	2009	Romantic comedy, sports	Romantic comedy sports
+940	35724	Wanted	2009	Action, romance	Action romance
+941	35725	Blue Oranges	2009	Thriller	Thriller
+942	35726	What's Your Raashee?	2009	Romantic comedy	Romantic comedy
+943	35727	Do Knot Disturb	2009	Comedy, romance	Comedy romance
+944	35728	Wake Up Sid	2009	Romantic comedy	Romantic comedy
+945	35729	Acid Factory	2009	Action	Action
+946	35730	All the Best: Fun Begins	2009	Comedy	Comedy
+947	35731	Blue	2009	Action	Action
+948	35732	Main Aurr Mrs Khanna	2009	Drama, romance	Drama romance
+949	35733	Bal Ganesh 2	2009	Animation	Animation
+950	35734	Fruit and Nut	2009	Comedy	Comedy
+951	35735	Love Ka Tadka	2009	Romantic comedy	Romantic comedy
+952	35736	London Dreams	2009	Musical, social, drama, romance	Musical social drama romance
+953	35737	Aladin	2009	Fantasy	Fantasy
+954	35738	Ajab Prem Ki Ghazab Kahani	2009	Comedy, romance	Comedy romance
+955	35739	Jail	2009	Social	Social
+956	35740	Tum Mile	2009	Romance	Romance
+957	35741	Aao Wish Karein	2009	Fantasy	Fantasy
+958	35742	Kurbaan	2009	Thriller, romance	Thriller romance
+959	35743	Shaabash! You Can Do It	2009	Comedy, thriller, social	Comedy thriller social
+960	35744	Marega Salaa	2009	Action	Action
+961	35745	De Dana Dan 	2009	Comedy	Comedy
+962	35746	"Radio
+"	2009	Musical	Musical
+963	35747	"Paa
+"	2009	Drama, family	Drama family
+964	35748	"Rocket Singh: Salesman of the Year
+"	2009	Comedy	Comedy
+965	35749	"Raat Gayi, Baat Gayi?
+"	2009	Drama	Drama
+966	35750	"3 Idiots
+"	2009	Comedy	Comedy
+967	35751	"Accident on Hill Road
+"	2009	Thriller	Thriller
+968	35762	Dulha Mil Gaya	2010	Romantic Comedy	Romantic Comedy
+969	35763	Pyaar Impossible!	2010	Romantic Comedy	Romantic Comedy
+970	35764	Chance Pe Dance	2010	Comedy, Romance	Comedy Romance
+971	35765	Veer	2010	Epic film	Epic film
+972	35766	Ishqiya	2010	Comedy, Crime, Romance	Comedy Crime Romance
+973	35767	Rann	2010	Drama	Drama
+974	35768	Road to Sangam	2010	Drama	Drama
+975	35769	The Hangman	2010	Drama	Drama
+976	35770	Striker	2010	Action	Action
+977	35771	My Name Is Khan	2010	Drama	Drama
+978	35772	Sukhmani: Hope for Life	2010	Drama	Drama
+979	35773	Aakhari Decision	2010	Action	Action
+980	35774	Click	2010	Horror	Horror
+981	35775	Toh Baat Pakki!	2010	Comedy	Comedy
+982	35776	Karthik Calling Karthik	2010	Thriller	Thriller
+983	35777	Teen Patti	2010	Drama, Thriller	Drama Thriller
+984	35778	Atithi Tum Kab Jaoge?	2010	Comedy	Comedy
+985	35779	Hello Zindagi	2010	Drama	Drama
+986	35780	Road, Movie	2010	Drama	Drama
+987	35781	Rokkk	2010	Thriller	Thriller
+988	35782	Thanks Maa	2010	Drama	Drama
+989	35783	Do Dilon Ke Khel Mein	2010	Romantic Comedy	Romantic Comedy
+990	35784	Hide & Seek	2010	Thriller	Thriller
+991	35785	Na Ghar Ke Na Ghaat Ke	2010	Comedy	Comedy
+992	35786	Right Yaaa Wrong	2010	Action	Action
+993	35787	Trump Card	2010	Action/Thriller	Action/Thriller
+994	35788	Idiot Box	2010	Drama	Drama
+995	35789	Lahore	2010	Sports/Social	Sports/Social
+996	35790	Love Sex Aur Dhokha	2010	Found footage	Found footage
+997	35791	Shaapit	2010	horror	horror
+998	35792	Hum Tum Aur Ghost	2010	Comedy	Comedy
+999	35793	It's a Man's World	2010	Social	Social
+1000	35794	Mittal v/s Mittal	2010	Romance	Romance
+1001	35795	My Friend Ganesha 3	2010	Animation	Animation
+1002	35796	Prem Kaa Game	2010	Comedy	Comedy
+1003	35797	Well Done Abba	2010	Social	Social
+1004	35798	Pankh	2010	Social	Social
+1005	35799	Sadiyaan	2010	Romance	Romance
+1006	35800	Tum Milo Toh Sahi	2010	Social/Drama	Social/Drama
+1007	35801	Jaane Kahan Se Aayi Hai	2010	Comedy/Romance/Fantasy	Comedy/Romance/Fantasy
+1008	35802	Prince - It's Showtime!	2010	Action/Thriller	Action/Thriller
+1009	35803	The Japanese Wife	2010	Romance	Romance
+1010	35804	Paathshaala	2010	Social	Social
+1011	35805	Phoonk 2	2010	Horror	Horror
+1012	35806	Apartment	2010	Thriller	Thriller
+1013	35807	Bird Idol	2010	Animation	Animation
+1014	35808	City of Gold	2010	Social	Social
+1015	35809	Kuchh Kariye	2010	Adventure, Drama, Music	Adventure Drama Music
+1016	35810	Muskurake Dekh Zara	2010	Romantic Comedy	Romantic Comedy
+1017	35811	Chase	2010	Action	Action
+1018	35812	Housefull	2010	Comedy	Comedy
+1019	35813	Badmaash Company	2010	Romance/Drama	Romance/Drama
+1020	35814	It's a Wonderful Afterlife	2010	Drama	Drama
+1021	35815	Admissions Open	2010	Drama	Drama
+1022	35816	Bumm Bumm Bole	2010	Children/Drama	Children/Drama
+1023	35817	Kushti	2010	Comedy/Romance	Comedy/Romance
+1024	35818	Kites	2010	Thriller/Romance	Thriller/Romance
+1025	35819	Raajneeti	2010	Drama/Political Thriller	Drama/Political Thriller
+1026	35820	Ek Second... Jo Zindagi Badal De?	2010	Thriller	Thriller
+1027	35821	Raavan	2010	Action/Romance	Action/Romance
+1028	35822	Krantiveer - The Revolution	2010	Action	Action
+1029	35823	Mr. Singh Mrs. Mehta	2010	Drama	Drama
+1030	35824	I Hate Luv Storys	2010	Romance	Romance
+1031	35825	Milenge Milenge	2010	Romance	Romance
+1032	35826	Red Alert: The War Within	2010	Action	Action
+1033	35827	Lamhaa	2010	Action	Action
+1034	35828	Tere Bin Laden	2010	Comedy	Comedy
+1035	35829	Udaan	2010	Drama	Drama
+1036	35830	Khatta Meetha	2010	Comedy, Drama, Romance	Comedy Drama Romance
+1037	35831	Once Upon a Time in Mumbaai	2010	Action, Romance, Thriller, Crime	Action Romance Thriller Crime
+1038	35832	Aisha	2010	Romance	Romance
+1039	35833	Help	2010	Horror	Horror
+1040	35834	Peepli Live	2010	Political, Comedy	Political Comedy
+1041	35835	Lafangey Parindey	2010	Romance	Romance
+1042	35836	Mr. Bhatti on Chutti	2010	Comedy	Comedy
+1043	35837	Hello Darling	2010	Comedy	Comedy
+1044	35838	Antardwand	2010	Crime	Crime
+1045	35839	Aashayein	2010	Drama	Drama
+1046	35840	Soch Lo	2010	Mystery, Suspense	Mystery Suspense
+1047	35841	We Are Family	2010	Drama, Romance	Drama Romance
+1048	35842	Mallika	2010	Horror	Horror
+1049	35843	The Film Emotional Atyachar	2010	Drama	Drama
+1050	35844	Dabangg	2010	Action	Action
+1051	35845	Anjaana Anjaani	2010	Romance	Romance
+1052	35846	Khichdi: The Movie	2010	Comedy	Comedy
+1053	35847	Crook	2010	Thriller	Thriller
+1054	35848	Do Dooni Chaar	2010	Comedy	Comedy
+1055	35849	Aakrosh	2010	Thriller	Thriller
+1056	35850	Pusher	2010	Action, Drama	Action Drama
+1057	35851	Knock Out	2010	Action	Action
+1058	35852	Kajraare	2010	Romance	Romance
+1059	35853	Ramayana: The Epic	2010	Animation	Animation
+1060	35854	Hisss	2010	Horror/Thriller	Horror/Thriller
+1061	35855	Jhootha Hi Sahi	2010	Romance	Romance
+1062	35856	Rakta Charitra	2010	Biographical	Biographical
+1063	35857	Dunno Y... Na Jaane Kyon	2010	Romance	Romance
+1064	35858	Maalik Ek	2010	Biographical, Animation	Biographical Animation
+1065	35859	Nakshatra	2010	Romance	Romance
+1066	35860	Golmaal 3	2010	Comedy	Comedy
+1067	35861	Action Replayy	2010	Comedy	Comedy
+1068	35862	A Flat	2010	Thriller	Thriller
+1069	35863	Ramaa: The Saviour	2010	Action, Adventure	Action Adventure
+1070	35864	Guzaarish	2010	Romance	Romance
+1071	35865	"Shahrukh Bola ""Khoobsurat Hai Tu"""	2010	Thriller	Thriller
+1072	35866	Diwangi Ne Had Kar Di	2010	Romance / Thriller	Romance / Thriller
+1073	35867	Allah Ke Banday	2010	Thriller	Thriller
+1074	35868	Break Ke Baad	2010	Romance	Romance
+1075	35869	Khuda Kasam	2010	Action	Action
+1076	35870	Khelein Hum Jee Jaan Sey	2010	Period	Period
+1077	35871	Phas Gaye Re Obama	2010	Comedy / Crime	Comedy / Crime
+1078	35872	Rakta Charitra 2	2010	Biographical	Biographical
+1079	35873	Band Baaja Baaraat	2010	Drama Romance	Drama Romance
+1080	35874	No Problem	2010	Comedy	Comedy
+1081	35875	332 Mumbai to India	2010	Thriller	Thriller
+1082	35876	Payback	2010	Thriller	Thriller
+1083	35877	Kaalo	2010	Horror	Horror
+1084	35878	Mirch	2010	Drama	Drama
+1085	35879	Tees Maar Khan	2010	Action comedy	Action comedy
+1086	35880	Isi Life Mein...!	2010	Drama	Drama
+1087	35881	Toonpur Ka Super Hero	2010	Animated	Animated
+1088	35882	Tera Kya Hoga Johnny	2010	Thriller	Thriller
+1089	35883	Ada... A Way of Life	2010	Drama	Drama
+1090	35894	No One Killed Jessica	2011	Social thriller	Social thriller
+1091	35895	Impatient Vivek	2011	Adult/Comedy/Romance	Adult/Comedy/Romance
+1092	35896	Yamla Pagla Deewana	2011	Comedy/Drama/Action	Comedy/Drama/Action
+1093	35897	Turning 30!!!	2011	Adult/Romance/Comedy	Adult/Romance/Comedy
+1094	35898	Mumbai Mast Kallander	2011	Comedy/Comedy/Comedy	Comedy/Comedy/Comedy
+1095	35899	Odyssey of Persistence	2011	Social	Social
+1096	35900	Dhobi Ghat	2011	Drama	Drama
+1097	35901	Hostel	2011	Social	Social
+1098	35902	Dil Toh Baccha Hai Ji	2011	Comedy	Comedy
+1099	35903	Yeh Saali Zindagi	2011	Cult	Cult
+1100	35904	United Six	2011	Action/Thriller	Action/Thriller
+1101	35905	Utt Pataang	2011	Comedy	Comedy
+1102	35906	Patiala House	2011	Family drama	Family drama
+1103	35907	Angel	2011	Drama	Drama
+1104	35908	Aashiqui.in	2011	Romance	Romance
+1105	35909	7 Khoon Maaf	2011	Thriller/Black comedy	Thriller/Black comedy
+1106	35910	Kaccha Limbo	2011	Children	Children
+1107	35911	Masti Express	2011	Comedy	Comedy
+1108	35912	Tanu Weds Manu	2011	Romance/Drama	Romance/Drama
+1109	35913	Satrangee Parachute	2011	Family	Family
+1110	35914	Yeh Faasley	2011	Drama	Drama
+1111	35915	Happy Husbands	2011	Comedy	Comedy
+1112	35916	Monica	2011	Drama	Drama
+1113	35917	Game	2011	Mystery/Action	Mystery/Action
+1114	35918	F.A.L.T.U	2011	Satire/Comedy/Teen film	Satire/Comedy/Teen film
+1115	35919	Memories in March	2011	Drama	Drama
+1116	35920	Thank You	2011	Comedy	Comedy
+1117	35921	Teen Thay Bhai	2011	Drama	Drama
+1118	35922	Dum Maaro Dum	2011	Thriller	Thriller
+1119	35923	Zokkomon	2011	Superhero/Children	Superhero/Children
+1120	35924	Shor in the City	2011	Drama/Cult	Drama/Cult
+1121	35925	Chalo Dilli	2011	Comedy Road movie	Comedy Road movie
+1122	35926	I Am	2011	Social/Drama	Social/Drama
+1123	35927	Naughty @ 40	2011	Comedy	Comedy
+1124	35928	Luv Ka The End	2011	Teen/Comedy	Teen/Comedy
+1125	35929	Haunted  3D	2011	Horror	Horror
+1126	35930	Love U...Mr. Kalakaar!	2011	Romance/Comedy	Romance/Comedy
+1127	35931	Ragini MMS	2011	Horror/Romance	Horror/Romance
+1128	35932	Shagird	2011	Action/Drama	Action/Drama
+1129	35933	Stanley Ka Dabba	2011	Children	Children
+1130	35934	404	2011	Psychological thriller	Psychological thriller
+1131	35935	Pyaar Ka Punchnama	2011	Romance/Comedy	Romance/Comedy
+1132	35936	Kucch Luv Jaisaa	2011	Drama/Comedy	Drama/Comedy
+1133	35937	Ready	2011	Comedy	Comedy
+1134	35938	Shaitan	2011	Drama/Thriller	Drama/Thriller
+1135	35939	Bheja Fry 2	2011	Comedy	Comedy
+1136	35940	Always Kabhi Kabhi	2011	Romance/Teen	Romance/Teen
+1137	35941	Bhindi Baazaar Inc.	2011	Thriller	Thriller
+1138	35942	Bin Bulaye Baraati	2011	Crime	Crime
+1139	35943	Double Dhamaal	2011	Comedy	Comedy
+1140	35945	Bbuddah... Hoga Terra Baap	2011	Action	Action
+1141	35946	Delhi Belly	2011	Action/Comedy	Action/Comedy
+1142	35947	Murder 2	2011	Psychological thriller	Psychological thriller
+1143	35948	Chillar Party	2011	Children	Children
+1144	35949	Zindagi Na Milegi Dobara	2011	Romance/Road	Romance/Road
+1145	35950	Singham	2011	Action	Action
+1146	35951	Khap	2011	Social	Social
+1147	35952	Gandhi to Hitler	2011	Biographical	Biographical
+1148	35953	Bubble Gum	2011	Drama	Drama
+1149	35954	Chala Mussaddi... Office Office	2011	Comedy/Social	Comedy/Social
+1150	35955	I Am Kalam	2011	Drama	Drama
+1151	35956	Milta Hai Chance By Chance	2011	Comedy/Romance	Comedy/Romance
+1152	35957	Warning	2011	Horror	Horror
+1153	35958	Aarakshan	2011	Social	Social
+1154	35959	Phhir	2011	Thriller	Thriller
+1155	35960	Chatur Singh Two Star	2011	Comedy	Comedy
+1156	35961	Not a Love Story	2011	Crime	Crime
+1157	35962	Sahi Dhandhe Galat Bande	2011	Comedy	Comedy
+1158	35963	Chitkabrey  Shades of Grey	2011	Social	Social
+1159	35964	Shabri	2011	Action	Action
+1160	35965	Yeh Dooriyan	2011	Romance	Romance
+1161	35966	Bodyguard	2011	Romance/Action	Romance/Action
+1162	35967	Mummy Punjabi	2011	Comedy	Comedy
+1163	35968	That Girl in Yellow Boots	2011	Social	Social
+1164	35969	Mere Brother Ki Dulhan	2011	Romance/Comedy	Romance/Comedy
+1165	35970	Rivaaz	2011	Social	Social
+1166	35971	Mausam	2011	Romance	Romance
+1167	35972	Speedy Singhs	2011	Drama	Drama
+1168	35973	U R My Jaan	2011	Romance	Romance
+1169	35974	Force	2011	Action	Action
+1170	35975	Hum Tum Shabana	2011	Romance/Comedy	Romance/Comedy
+1171	35976	Saheb, Biwi Aur Gangster	2011	Action/Thriller	Action/Thriller
+1172	35977	Tere Mere Phere	2011	Romantic/Comedy	Romantic/Comedy
+1173	35978	Chargesheet	2011	Drama/Thriller	Drama/Thriller
+1174	35979	Na Jaane Kabse hum hi	2011	Romance	Romance
+1175	35980	Rascals	2011	Comedy/Action	Comedy/Action
+1176	35981	Love Breakups Zindagi	2011	Romantic	Romantic
+1177	35982	Mujhse Fraaandship Karoge	2011	Comedy/Romance	Comedy/Romance
+1178	35983	My Friend Pinto	2011	Romance Comedy Crime	Romance Comedy Crime
+1179	35984	Aazaan	2011	Action/Thriller	Action/Thriller
+1180	35985	Ra.One	2011	Action/Sci-Fi	Action/Sci-Fi
+1181	35986	Tell Me O Kkhuda	2011	Drama	Drama
+1182	35987	Damadamm!	2011	Comedy	Comedy
+1183	35988	Loot	2011	Comedy	Comedy
+1184	35989	Miley Naa Miley Hum	2011	Romance/Drama	Romance/Drama
+1185	35990	Rockstar	2011	Romance/Drama	Romance/Drama
+1186	35991	Shakal Pe Mat Ja	2011	Comedy	Comedy
+1187	35992	Desi Boyz	2011	Comedy	Comedy
+1188	35993	The Dirty Picture	2011	Drama	Drama
+1189	35994	Ladies vs Ricky Bahl	2011	Comedy	Comedy
+1190	35995	Jo Hum Chahein	2011	Romance/Drama	Romance/Drama
+1191	35996	Don 2	2011	Action/thriller	Action/thriller
+1192	36007	Players	2012	Action/Thriller	Action/Thriller
+1193	36008	Chaalis Chauraasi 4084	2012	Comedy/Crime	Comedy/Crime
+1194	36009	Ghost	2012	Adult/Horror	Adult/Horror
+1195	36010	Sadda Adda	2012	Comedy	Comedy
+1196	36011	Agneepath	2012	Action/Drama	Action/Drama
+1197	36012	Gali Gali Chor Hai	2012	Drama	Drama
+1198	36013	Staying Alive	2012	Social	Social
+1199	36014	Love You To Death	2012	Comedy	Comedy
+1200	36015	Ek Main Aur Ekk Tu	2012	Romance/Comedy	Romance/Comedy
+1201	36016	Valentine's Night	2012	Adult/Romance/Thriller	Adult/Romance/Thriller
+1202	36017	Ekk Deewana Tha	2012	Romance	Romance
+1203	36018	?: A Question Mark	2012	Adult/Horror	Adult/Horror
+1204	36019	Married 2 America	2012	Drama	Drama
+1205	36020	Jodi Breakers	2012	Romance	Romance
+1206	36021	Tere Naal Love Ho Gaya	2012	Romance/Comedy	Romance/Comedy
+1207	36022	London, Paris, New York	2012	Romance	Romance
+1208	36023	Paan Singh Tomar	2012	Crime	Crime
+1209	36024	Will You Marry Me?	2012	Romance	Romance
+1210	36025	Kahaani	2012	Drama/Thriller	Drama/Thriller
+1211	36026	Chaar Din Ki Chandni	2012	Comedy	Comedy
+1212	36027	Say Yes to Love	2012	Romance	Romance
+1213	36028	Akkad Bakkkad Bam Be Bo	2012	Romance	Romance
+1214	36029	Zindagi Tere Naam	2012	Romance	Romance
+1215	36030	Blood Money	2012	Thriller	Thriller
+1216	36031	Agent Vinod	2012	Suspense/Thriller	Suspense/Thriller
+1217	36032	Bumboo	2012	Comedy	Comedy
+1218	36033	Housefull 2	2012	Action Comedy	Action Comedy
+1219	36034	Bittoo Boss	2012	Comedy	Comedy
+1220	36035	Vicky Donor	2012	Comedy	Comedy
+1221	36036	Ab Hoga Dharna Unlimited	2012	Drama	Drama
+1222	36037	Hate Story	2012	Adult/Thriller	Adult/Thriller
+1223	36038	Chhodo Kal Ki Baatein	2012	Comedy	Comedy
+1224	36039	Tezz	2012	Action	Action
+1225	36040	Life Ki Toh Lag Gayi	2012	Comedy	Comedy
+1226	36041	Jannat 2	2012	Crime/Thriller	Crime/Thriller
+1227	36042	Fatso!	2012	Comedy	Comedy
+1228	36043	The Forest	2012	Horror	Horror
+1229	36044	Love, Lies & Seeta	2012	Comedy	Comedy
+1230	36045	Dangerous Ishq	2012	Romance/Thriller	Romance/Thriller
+1231	36046	Chhota Bheem And The Curse Of Damyaan	2012	Animation	Animation
+1232	36047	Ishaqzaade	2012	Romance	Romance
+1233	36048	Department	2012	Adult/Action/Crime	Adult/Action/Crime
+1234	36050	Arjun: The Warrior Prince	2012	Computer-Animated	Computer-Animated
+1235	36051	MLA	2012	Crime	Crime
+1236	36052	Rakhtbeej	2012	Romantic Comedy	Romantic Comedy
+1237	36053	Yeh Khula Aasmaan	2012	Romantic	Romantic
+1238	36054	Love, Wrinkle-free	2012	Adult/Romantic	Adult/Romantic
+1239	36055	Rowdy Rathore	2012	Action/comedy	Action/comedy
+1240	36056	Shanghai	2012	Political/Thriller	Political/Thriller
+1241	36057	Qasam Se Qasam Se	2012	Romance	Romance
+1242	36058	Ferrari Ki Sawaari	2012	Drama/Comedy	Drama/Comedy
+1243	36059	Teri Meri Kahaani	2012	Romance/Comedy	Romance/Comedy
+1244	36060	Gangs of Wasseypur	2012	Adult/Crime/Thriller	Adult/Crime/Thriller
+1245	36061	Maximum	2012	Thriller	Thriller
+1246	36062	Bol Bachchan	2012	Comedy/Action	Comedy/Action
+1247	36063	3 Bachelors	2012	Comedy	Comedy
+1248	36064	Cocktail	2012	Romance	Romance
+1249	36065	Gattu	2012	Children	Children
+1250	36066	Challo Driver	2012	Comedy	Comedy
+1251	36067	Mere Dost Picture Abhi Baki Hai	2012	Comedy	Comedy
+1252	36068	Kyaa Super Kool Hain Hum	2012	Adult/Comedy	Adult/Comedy
+1253	36069	Aalaap	2012	Social	Social
+1254	36070	Overtime	2012	Drama	Drama
+1255	36071	Jism 2	2012	Adult/Thriller	Adult/Thriller
+1256	36072	Krishna Aur Kans 	2012	Computer-Animated	Computer-Animated
+1257	36073	Gangs of Wasseypur  Part 2	2012	Adult/Crime/Thriller	Adult/Crime/Thriller
+1258	36074	Paanch Ghantey Mien Paanch Crore	2012	Thriller	Thriller
+1259	36075	Ek Tha Tiger	2012	Romance/Action	Romance/Action
+1260	36076	Shirin Farhad Ki Toh Nikal Padi	2012	Romance/Comedy	Romance/Comedy
+1261	36077	Joker	2012	Drama	Drama
+1262	36078	Jalpari: The Desert Mermaid	2012	Thriller/Social	Thriller/Social
+1263	36079	From Sydney with Love	2012	Romantic	Romantic
+1264	36080	I M 24	2012	Comedy	Comedy
+1265	36081	Raaz 3: The Third Dimension	2012	Adult/Suspense/Thriller	Adult/Suspense/Thriller
+1266	36082	Chal Pichchur Banate Hain	2012	Comedy	Comedy
+1267	36083	Barfi!	2012	Romance/Comedy	Romance/Comedy
+1268	36084	Jeena Hai Toh Thok Daal	2012	Drama	Drama
+1269	36085	Heroine	2012	Adult/Drama	Adult/Drama
+1270	36086	Kamaal Dhamaal Malamaal	2012	Comedy	Comedy
+1271	36087	OMG  Oh My God!	2012	Comedy	Comedy
+1272	36088	English Vinglish	2012	Drama	Drama
+1273	36089	Kismet Love Paisa Dilli	2012	Comedy	Comedy
+1274	36090	Aiyyaa	2012	Rom-Com	Rom-Com
+1275	36091	Login	2012	Drama/Thriller	Drama/Thriller
+1276	36092	Chittagong	2012	Drama	Drama
+1277	36093	Delhi Safari	2012	Computer Animated	Computer Animated
+1278	36094	Bhoot Returns	2012	Horror	Horror
+1279	36095	Student of the Year	2012	Romance/Comedy	Romance/Comedy
+1280	36096	Chakravyuh	2012	Political Thriller	Political Thriller
+1281	36097	Ajab Gazabb Love	2012	Comedy	Comedy
+1282	36098	Rush	2012	Thriller/Crime	Thriller/Crime
+1283	36099	Luv Shuv Tey Chicken Khurana	2012	Comedy	Comedy
+1284	36100	1920: The Evil Returns	2012	Horror	Horror
+1285	36101	Ata Pata Laapata	2012	Musical Comedy	Musical Comedy
+1286	36102	Sons of Ram	2012	Animation/Drama/Children	Animation/Drama/Children
+1287	36103	Future To Bright Hai Ji	2012	Drama	Drama
+1288	36104	Jab Tak Hai Jaan	2012	Romance, Drama	Romance Drama
+1289	36105	Son Of Sardaar	2012	Comedy	Comedy
+1290	36106	Talaash: The Answer Lies Within	2012	Drama/Suspense	Drama/Suspense
+1291	36107	Khiladi 786	2012	Action/Comedy	Action/Comedy
+1292	36108	Cigarette Ki Tarah	2012	Drama/Thriller	Drama/Thriller
+1293	36109	Dabangg 2	2012	Action/Comedy	Action/Comedy
+1294	36120	Table No. 21	2013	Thriller/Drama	Thriller/Drama
+1295	36121	Dehraadun Diary	2013	Thriller	Thriller
+1296	36122	Meri Shadi Karao	2013	Comedy	Comedy
+1297	36123	Matru Ki Bijlee Ka Mandola	2013	Comedy	Comedy
+1298	36124	Pyaar Mein Aisa Hota Hai	2013	Thriller	Thriller
+1299	36125	Gangoobai	2013	Drama	Drama
+1300	36126	Inkaar	2013	Romance/Crime	Romance/Crime
+1301	36127	Mumbai Mirror	2013	Action	Action
+1302	36128	Bandook	2013	Crime	Crime
+1303	36129	Race 2	2013	Action/Thriller	Action/Thriller
+1304	36130	Akaash Vani	2013	Romance	Romance
+1305	36131	Main Krishna Hoon	2013	Animation/Musical	Animation/Musical
+1306	36132	David	2013	Crime	Crime
+1307	36133	Vishwaroopam	2013	Action	Action
+1308	36134	Mai...	2013	Drama/Family	Drama/Family
+1309	36135	Listen... Amaya	2013	Drama	Drama
+1310	36136	Special 26	2013	Drama/Comedy	Drama/Comedy
+1311	36137	"ABCD: Any Body Can Dance
+"	2013	Drama/Dance	Drama/Dance
+1312	36138	The Unsound	2013	Thriller	Thriller
+1313	36139	Jayantabhai Ki Luv Story	2013	Comedy/Romance	Comedy/Romance
+1314	36140	Murder 3	2013	Thriller	Thriller
+1315	36141	Kai Po Che!	2013	Drama	Drama
+1316	36142	Zila Ghaziabad	2013	Action	Action
+1317	36143	I, Me Aur Main	2013	Romantic comedy	Romantic comedy
+1318	36144	Bloody Isshq	2013	Romance/Thriller	Romance/Thriller
+1319	36145	Saheb, Biwi Aur Gangster Returns	2013	Drama/Thriller	Drama/Thriller
+1320	36146	Saare Jahaan Se Mehnga	2013	Satire/Comedy	Satire/Comedy
+1321	36147	3G	2013	Thriller	Thriller
+1322	36148	Mere Dad Ki Maruti	2013	Comedy	Comedy
+1323	36149	Jolly LLB	2013	Comedy/Satire	Comedy/Satire
+1324	36150	Rangrezz	2013	Action	Action
+1325	36151	The Adventures of Sinbad	2013	Adventure	Adventure
+1326	36152	Himmatwala	2013	Action/Comedy	Action/Comedy
+1327	36153	Chashme Baddoor	2013	Comedy	Comedy
+1328	36154	Nautanki Saala	2013	Comedy/Romance	Comedy/Romance
+1329	36155	Commando: A One Man Army	2013	Action/Romance	Action/Romance
+1330	36156	Ek Thi Daayan	2013	Horror	Horror
+1331	36157	Aashiqui 2	2013	Musical romance	Musical romance
+1332	36158	Shree	2013	Thriller	Thriller
+1333	36159	Shootout at Wadala	2013	Crime/Thriller	Crime/Thriller
+1334	36160	Bombay Talkies	2013	Anthology	Anthology
+1335	36161	Chhota Bheem and the Throne of Bali	2013	Children/Animation	Children/Animation
+1336	36162	Go Goa Gone	2013	Zombie comedy	Zombie comedy
+1337	36163	Gippi	2013	Coming of age	Coming of age
+1338	36164	Aurangzeb	2013	Drama/Action	Drama/Action
+1339	36165	I Don't Luv U	2013	Romantic drama	Romantic drama
+1340	36166	Beehad - The Ravines	2013	Drama	Drama
+1341	36167	Ishkq in Paris	2013	Romance	Romance
+1342	36168	Hum Hai Raahi Car Ke	2013	Romantic comedy	Romantic comedy
+1343	36169	Zindagi 50-50	2013	Social	Social
+1344	36170	Yeh Jawaani Hai Deewani	2013	Romantic comedy	Romantic comedy
+1345	36171	Yamla Pagla Deewana 2	2013	Comedy/Action	Comedy/Action
+1346	36172	Fukrey	2013	Comedy	Comedy
+1347	36173	Ankur Arora Murder Case	2013	Thriller	Thriller
+1348	36174	Raanjhanaa	2013	Romance	Romance
+1349	36175	Enemmy	2013	Action	Action
+1350	36176	Shortcut Romeo	2013	Romantic thriller	Romantic thriller
+1351	36177	Ghanchakkar	2013	Comedy/Thriller	Comedy/Thriller
+1352	36178	Lootera	2013	Romance/Thriller	Romance/Thriller
+1353	36179	Policegiri	2013	Action	Action
+1354	36180	Bhaag Milkha Bhaag	2013	Biopic	Biopic
+1355	36181	Sixteen	2013	Drama	Drama
+1356	36182	B.A. Pass	2013	Drama	Drama
+1357	36183	Boyss Toh Boyss Hain	2013	Comedy	Comedy
+1358	36184	Ramaiya Vastavaiya	2013	Rom-com	Rom-com
+1359	36185	D Day	2013	Action/Drama	Action/Drama
+1360	36186	Ship of Theseus	2013	Avant-garde	Avant-garde
+1361	36187	Issaq	2013	Romance/Drama	Romance/Drama
+1362	36188	Bajatey Raho	2013	Comedy	Comedy
+1363	36189	Luv U Soniyo	2013	Romance	Romance
+1364	36190	Nasha	2013	Erotic/Thriller	Erotic/Thriller
+1365	36191	Rabba Main Kya Karoon	2013	Comedy	Comedy
+1366	36192	Chor Chor Super Chor	2013	Comedy	Comedy
+1367	36193	Calapor	2013	Thriller/Drama	Thriller/Drama
+1368	36194	Love in Bombay	2013	Romance	Romance
+1369	36195	Chennai Express	2013	Comedy/Action	Comedy/Action
+1370	36196	Once Upon Ay Time In Mumbai Dobaara!	2013	Crime/Romance	Crime/Romance
+1371	36197	Madras Cafe	2013	Drama/Espionage thriller	Drama/Espionage thriller
+1372	36198	Satyagraha	2013	Political thriller	Political thriller
+1373	36199	Zanjeer	2013	Action/Thriller	Action/Thriller
+1374	36200	Shuddh Desi Romance	2013	Romance	Romance
+1375	36201	Siddharth	2013	Drama	Drama
+1376	36202	Grand Masti	2013	Adult comedy	Adult comedy
+1377	36203	John Day	2013	Thriller	Thriller
+1378	36204	Horror Story	2013	Horror	Horror
+1379	36205	Phata Poster Nikhla Hero	2013	Rom com/Action	Rom com/Action
+1380	36206	The Lunchbox	2013	Drama	Drama
+1381	36208	Maazii	2013	Suspense thriller	Suspense thriller
+1382	36209	Prague	2013	Psychological thriller/Romance	Psychological thriller/Romance
+1383	36210	Super Model	2013	Drama	Drama
+1384	36211	War Chhod Na Yaar	2013	War comedy	War comedy
+1385	36212	Baat Bann Gayi	2013	Comedy	Comedy
+1386	36213	Ek Thee Sanam	2013	Drama	Drama
+1387	36214	Paapi - Ek Satya Katha	2013	Crime	Crime
+1388	36215	Boss	2013	Masala	Masala
+1389	36216	Shahid	2013	Drama/Biography	Drama/Biography
+1390	36217	Wake Up India	2013	Political/Drama	Political/Drama
+1391	36218	Amdavad Junction	2013	Crime/Drama	Crime/Drama
+1392	36219	Dilli Gang	2013	Crime	Crime
+1393	36220	Mickey Virus	2013	Comedy/Thriller	Comedy/Thriller
+1394	36221	Ishk Actually	2013	Romance	Romance
+1395	36222	Sooper Se Ooper	2013	Comedy	Comedy
+1396	36223	Krrish 3	2013	Superhero	Superhero
+1397	36224	Satya 2	2013	Crime	Crime
+1398	36225	Rajjo	2013	Romance	Romance
+1399	36226	Goliyon Ki Raasleela Ram-Leela	2013	Romance/Drama	Romance/Drama
+1400	36227	Gori Tere Pyaar Mein	2013	Romance/Comedy	Romance/Comedy
+1401	36228	Singh Saab The Great	2013	Action	Action
+1402	36229	Bullett Raja	2013	Comedy/Crime/Romance	Comedy/Crime/Romance
+1403	36230	R... Rajkumar	2013	Action/Romance	Action/Romance
+1404	36232	What the Fish	2013	Drama	Drama
+1405	36233	Dhoom 3	2013	Action	Action
+1406	36244	Mr Joe B. Carvalho	2014	Comedy	Comedy
+1407	36245	Sholay 3D	2014	Action/Adventure	Action/Adventure
+1408	36246	Dedh Ishqiya	2014	Black Comedy/Thriller	Black Comedy/Thriller
+1409	36247	Yaariyan	2014	Romance	Romance
+1410	36248	Karle Pyaar Karle	2014	Romance	Romance
+1411	36249	Miss Lovely	2014	Drama	Drama
+1412	36250	Om-Dar-B-Dar	2014	Experimental	Experimental
+1413	36251	Paranthe Wali Gali	2014	Romantic comedy	Romantic comedy
+1414	36252	Strings of Passion	2014	Drama	Drama
+1415	36253	Jai Ho	2014	Action - comedy	Action - comedy
+1416	36254	One by Two	2014	Romance/Comedy	Romance/Comedy
+1417	36255	Babloo Happy Hai	2014	Comedy	Comedy
+1418	36256	Hasee Toh Phasee	2014	Romance/Comedy	Romance/Comedy
+1419	36257	Heartless	2014	Thriller	Thriller
+1420	36258	Ya Rab	2014	Drama/Social	Drama/Social
+1421	36259	Gunday	2014	Action	Action
+1422	36260	Kaho Na Kaho	2014	Social	Social
+1423	36261	Darr @ the Mall	2014	Horror	Horror
+1424	36262	Dee Saturday Night	2014	Drama	Drama
+1425	36263	Gulabi Gang	2014	Documentary	Documentary
+1426	36264	Highway	2014	Drama/Romance	Drama/Romance
+1427	36265	Karar: The Deal	2014	Thriller	Thriller
+1428	36266	Pyar Ka Live Show	2014	Drama	Drama
+1429	36267	The Dark Secrets Of Tonhi	2014	Drama/Action	Drama/Action
+1430	36268	Anuradha	2014	Drama	Drama
+1431	36269	Shaadi Ke Side Effects	2014	Romance/Comedy	Romance/Comedy
+1432	36270	Gulaab Gang	2014	Social/Action	Social/Action
+1433	36271	Queen	2014	Romance/Drama	Romance/Drama
+1434	36272	Total Siyapaa	2014	Drama/Comedy	Drama/Comedy
+1435	36273	Bewakoofiyaan	2014	Romance	Romance
+1436	36274	Neighbours	2014	Horror	Horror
+1437	36275	W	2014	Thriller	Thriller
+1438	36276	Ankhon Dekhi	2014	Comedy	Comedy
+1439	36277	Gang of Ghosts	2014	Horror Comedy	Horror Comedy
+1440	36278	Lakshmi	2014	Drama	Drama
+1441	36279	Ragini MMS 2	2014	Horror/Adult	Horror/Adult
+1442	36280	Dishkiyaoon	2014	Action	Action
+1443	36281	O Teri	2014	Comedy	Comedy
+1444	36282	Station	2014	Thriller	Thriller
+1445	36283	Youngistaan	2014	Drama	Drama
+1446	36284	Ebn-E-Batuta	2014	Sci-fi/Comedy	Sci-fi/Comedy
+1447	36285	Honour Killing	2014	Social	Social
+1448	36286	Jal	2014	Drama/Fantasy	Drama/Fantasy
+1449	36287	Main Tera Hero	2014	Comedy	Comedy
+1450	36288	Bhoothnath Returns	2014	Fantasy/Children	Fantasy/Children
+1451	36289	2 States	2014	Romance	Romance
+1452	36290	Dekh Tamasha Dekh	2014	Comedy	Comedy
+1453	36291	Lucky Kabootar	2014	Romance/Comedy	Romance/Comedy
+1454	36292	Kaanchi: The Unbreakable	2014	Musical/Drama	Musical/Drama
+1455	36293	Revolver Rani	2014	Drama	Drama
+1456	36294	Samrat & Co.	2014	Mystery/Thriller/Drama	Mystery/Thriller/Drama
+1457	36295	Purani Jeans	2014	Romance/Drama	Romance/Drama
+1458	36296	Kya Dilli Kya Lahore	2014	Social	Social
+1459	36297	Angry Young Man	2014	Action	Action
+1460	36298	Kahin Hai Mera Pyar	2014	Romance	Romance
+1461	36299	Hawaa Hawaai	2014	Drama	Drama
+1462	36300	Khwaabb	2014	Romance/Drama	Romance/Drama
+1463	36301	Koyelaanchal	2014	Action	Action
+1464	36302	Manjunath	2014	Drama	Drama
+1465	36303	Mastram	2014	Adult	Adult
+1466	36304	Yeh Hai Bakrapur	2014	Comedy	Comedy
+1467	36305	The Xposé	2014	Thriller	Thriller
+1468	36306	Children of War	2014	Drama	Drama
+1469	36307	M3 - Midsummer Midnight Mumbai	2014	Mystery	Mystery
+1470	36308	Heropanti	2014	Romance/Action	Romance/Action
+1471	36309	CityLights	2014	Drama	Drama
+1472	36310	Kuku Mathur Ki Jhand Ho Gayi	2014	Comedy	Comedy
+1473	36311	Filmistaan	2014	Comedy	Comedy
+1474	36312	Holiday: A Soldier Is Never Off Duty	2014	Action/Thriller	Action/Thriller
+1475	36313	Fugly	2014	Comedy/Drama	Comedy/Drama
+1476	36314	Machhli Jal Ki Rani Hai	2014	Horror	Horror
+1477	36315	Humshakals	2014	Comedy/Drama/Romance	Comedy/Drama/Romance
+1478	36316	Ek Villain	2014	Romance/Thriller	Romance/Thriller
+1479	36317	Bobby Jasoos	2014	Comedy/Drama	Comedy/Drama
+1480	36318	Lekar Hum Deewana Dil	2014	Romance/Comedy	Romance/Comedy
+1481	36319	Humpty Sharma Ki Dulhania	2014	Romance/Comedy	Romance/Comedy
+1482	36320	Hate Story 2	2014	Thriller	Thriller
+1483	36321	Bazaar-E-Husn	2014	Drama	Drama
+1484	36322	Riyasat	2014	Drama/Action	Drama/Action
+1485	36323	Amit Sahni Ki List	2014	Romance/Comedy	Romance/Comedy
+1486	36324	Pizza	2014	Horror	Horror
+1487	36325	Kick	2014	Action/Comedy	Action/Comedy
+1488	36326	Entertainment	2014	Comedy	Comedy
+1489	36327	Singham Returns	2014	Action	Action
+1490	36328	Life is Beautiful!	2014	Romance	Romance
+1491	36329	Mad About Dance	2014	Dance	Dance
+1492	36330	Mardaani	2014	Drama/Action	Drama/Action
+1493	36331	Mumbhai Connection	2014	Comedy	Comedy
+1494	36332	Raja Natwarlal	2014	Thriller	Thriller
+1495	36333	Mary Kom	2014	Drama	Drama
+1496	36334	Creature	2014	Horror	Horror
+1497	36335	Finding Fanny	2014	Comedy/Drama	Comedy/Drama
+1498	36336	Daawat-e-Ishq	2014	Comedy/Drama	Comedy/Drama
+1499	36337	Khoobsurat	2014	Romance/Comedy	Romance/Comedy
+1500	36338	3 A.M.	2014	Horror	Horror
+1501	36339	Chaarfutiya Chhokare	2014	Thriller	Thriller
+1502	36340	Desi Kattey	2014	Drama/Action	Drama/Action
+1503	36341	Meinu Ek Ladki Chaahiye	2014	Social satire	Social satire
+1504	36342	Balwinder Singh Famous Ho Gaya	2014	Comedy	Comedy
+1505	36343	Bang Bang!	2014	Action	Action
+1506	36344	Haider	2014	Drama	Drama
+1507	36345	Spark	2014	Drama	Drama
+1508	36346	Jigariyaa	2014	Romance	Romance
+1509	36347	Ekkees Toppon Ki Salaami	2014	Political Satire	Political Satire
+1510	36348	Tamanchey	2014	Crime/Romance	Crime/Romance
+1511	36349	Mumbai 125 KM	2014	Horror	Horror
+1512	36350	Sonali Cable	2014	Comedy/Drama	Comedy/Drama
+1513	36351	Happy New Year	2014	Action/Comedy	Action/Comedy
+1514	36352	Fireflies	2014	Drama	Drama
+1515	36353	Roar: Tigers of the Sunderbans	2014	Drama/Action	Drama/Action
+1516	36354	Super Nani	2014	Drama	Drama
+1517	36355	Rang Rasiya	2014	Drama	Drama
+1518	36356	A Decent Arrangement	2014	Drama	Drama
+1519	36357	The Shaukeens	2014	Comedy	Comedy
+1520	36358	6 - 5 = 2	2014	Found footage / Horror	Found footage / Horror
+1521	36359	Kill Dil	2014	Romance/Drama	Romance/Drama
+1522	36360	Gollu Aur Pappu	2014	Comedy	Comedy
+1523	36361	Happy Ending	2014	Romance/Comedy	Romance/Comedy
+1524	36362	Titoo MBA	2014	Romance/Comedy	Romance/Comedy
+1525	36363	Wah Taj	2014	Drama	Drama
+1526	36364	Hum Hai Teen Khurafaati	2014	Comedy	Comedy
+1527	36365	Ungli	2014	Drama	Drama
+1528	36366	Zed Plus	2014	Drama	Drama
+1529	36367	Zid	2014	Erotica/Thriller	Erotica/Thriller
+1530	36368	Action Jackson	2014	Comedy	Comedy
+1531	36369	Bhopal: A Prayer for Rain	2014	Drama	Drama
+1532	36370	Mumbai Delhi Mumbai	2014	Drama	Drama
+1533	36371	Sulemani Keeda	2014	Social/Drama	Social/Drama
+1534	36372	Badlapur Boys	2014	Sports	Sports
+1535	36373	Life Mein Twist Hai	2014	Drama/Romance	Drama/Romance
+1536	36374	LUV...Phir Kabhie	2014	Drama	Drama
+1537	36375	Main Aur Mr. Riight	2014	Comedy/Romance	Comedy/Romance
+1538	36376	Objection My God	2014	Comedy	Comedy
+1539	36377	Room - The Mystery	2014	Suspense/Thriller	Suspense/Thriller
+1540	36378	PK	2014	Comedy/Drama	Comedy/Drama
+1541	36379	Ugly	2014	Thriller	Thriller
+1542	36390	International Hero	2015	Drama	Drama
+1543	36391	Mumbai Can Dance Saala	2015	Thriller	Thriller
+1544	36392	Take It Easy	2015	Drama	Drama
+1545	36393	Tevar	2015	Action/romance	Action/romance
+1546	36394	Alone	2015	Horror	Horror
+1547	36395	Crazy Cukkad Family	2015	Comedy	Comedy
+1548	36396	Sharafat Gayi Tel Lene	2015	Comedy/thriller	Comedy/thriller
+1549	36397	Baby	2015	Thriller	Thriller
+1550	36398	Dolly Ki Doli	2015	Romantic/comedy	Romantic/comedy
+1551	36399	Chal Guru Ho Ja Shuru	2015	Comedy	Comedy
+1552	36400	Hawaizaada	2015	Drama	Drama
+1553	36401	Khamoshiyan: Silences Have Secrets	2015	Horror	Horror
+1554	36402	Rahasya	2015	Mystery	Mystery
+1555	36403	Jai Jawaan Jai Kisaan	2015	Drama	Drama
+1556	36404	Shamitabh	2015	Drama	Drama
+1557	36405	MSG: The Messenger	2015	Action/drama	Action/drama
+1558	36406	Roy	2015	Romance/thriller	Romance/thriller
+1559	36407	Badlapur	2015	Action/thriller	Action/thriller
+1560	36408	Qissa	2015	Historical drama	Historical drama
+1561	36409	Ab Tak Chhappan 2	2015	Crime/drama	Crime/drama
+1562	36410	Dum Laga Ke Haisha	2015	Comedy	Comedy
+1563	36411	Badmashiyaan	2015	Romantic comedy	Romantic comedy
+1564	36412	Coffee Bloom	2015	Romance/drama	Romance/drama
+1565	36413	Dirty Politics	2015	Political drama	Political drama
+1566	36414	Hey Bro	2015	Comedy	Comedy
+1567	36415	NH10	2015	Thriller	Thriller
+1568	36416	Dilliwali Zaalim Girlfriend	2015	Comedy	Comedy
+1569	36417	Hunterrr	2015	Comedy	Comedy
+1570	36418	Barkhaa	2015	Romance	Romance
+1571	36419	Detective Byomkesh Bakshy	2015	Thriller	Thriller
+1572	36420	Luckhnowi Ishq	2015	Romance	Romance
+1573	36421	Dharam Sankat Mein	2015	Drama	Drama
+1574	36422	Ek Paheli Leela	2015	Musical	Musical
+1575	36423	Court	2015	Drama	Drama
+1576	36424	Margarita with a Straw	2015	Drama	Drama
+1577	36425	Mr. X	2015	Sci fi/thriller	Sci fi/thriller
+1578	36426	NH-8 Road to Nidhivan	2015	Horror	Horror
+1579	36427	"Ek Adbhut Dakshina Guru Dakshina
+"	2015	Dance/drama	Dance/drama
+1580	36428	Ishq Ke Parindey	2015	Romance	Romance
+1581	36429	Kaagaz Ke Fools	2015	Comedy	Comedy
+1582	36430	Gabbar is Back	2015	Crime/action	Crime/action
+1583	36431	Sabki Bajegi Band	2015	Thriller/drama	Thriller/drama
+1584	36432	Kuch Kuch Locha Hai	2015	Comedy	Comedy
+1585	36433	Piku	2015	Comedy/drama	Comedy/drama
+1586	36434	Bombay Velvet	2015	Crime/drama	Crime/drama
+1587	36435	Main Hoon Rajinikanth	2015	Spoof, comedy, thriller	Spoof comedy thriller
+1588	36436	Tanu Weds Manu Returns	2015	Romance/comedy	Romance/comedy
+1589	36437	I Love Desi	2015	Comedy	Comedy
+1590	36438	Ishqedarriyaan	2015	Drama	Drama
+1591	36439	P Se PM Tak	2015	Comedy	Comedy
+1592	36440	Welcome 2 Karachi	2015	Comedy	Comedy
+1593	36441	Dil Dhadakne Do	2015	Drama	Drama
+1594	36442	Mere Genie Uncle 3D	2015	Drama	Drama
+1595	36443	Hamari Adhuri Kahani	2015	Romance/drama	Romance/drama
+1596	36444	ABCD 2	2015	Dance	Dance
+1597	36445	Miss Tanakpur Haazir Ho 	2015	Comedy/drama	Comedy/drama
+1598	36446	Uvaa	2015	Social/comedy	Social/comedy
+1599	36447	Bezubaan Ishq	2015	Romance	Romance
+1600	36448	Guddu Rangeela	2015	Comedy	Comedy
+1601	36449	Second Hand Husband	2015	Drama	Drama
+1602	36450	I Love NY	2015	Romance/drama	Romance/drama
+1603	36451	Thoda Lutf Thoda Ishq	2015	Romance/drama	Romance/drama
+1604	36452	Bajrangi Bhaijaan	2015	Action, comedy, drama	Action comedy drama
+1605	36453	Aisa Yeh Jahaan	2015	Drama	Drama
+1606	36454	Masaan	2015	Drama	Drama
+1607	36455	Drishyam	2015	Drama/thriller	Drama/thriller
+1608	36456	Bangistan	2015	Comedy	Comedy
+1609	36457	Brothers	2015	Drama	Drama
+1610	36458	Gour Hari Dastaan	2015	Drama	Drama
+1611	36459	All Is Well	2015	Drama	Drama
+1612	36460	Manjhi - The Mountain Man	2015	Drama	Drama
+1613	36461	Rolling Dream	2015	Drama	Drama
+1614	36462	Kaun Kitney Paani Mein	2015	Social/drama	Social/drama
+1615	36463	Phantom	2015	Action/thriller	Action/thriller
+1616	36464	Welcome Back	2015	Romance/comedy	Romance/comedy
+1617	36465	Hero	2015	Action/romance	Action/romance
+1618	36466	Sorry Daddy	2015	Action/drama	Action/drama
+1619	36467	Katti Batti	2015	Romance/comedy	Romance/comedy
+1620	36468	Meeruthiya Gangster	2015	Crime/comedy	Crime/comedy
+1621	36469	MSG-2:The Messenger	2015	Action/thriller	Action/thriller
+1622	36470	Kis Kisko Pyaar Karoon	2015	Comedy	Comedy
+1623	36471	Calendar Girls	2015	Drama	Drama
+1624	36472	Bhaag Johnny	2015	Drama	Drama
+1625	36473	Time Out	2015	Drama	Drama
+1626	36474	Mumbhaii - The Gangster	2015	Crime/Drama	Crime/Drama
+1627	36475	Singh Is Bliing	2015	Comedy	Comedy
+1628	36476	Talvar	2015	Thriller	Thriller
+1629	36477	Jazbaa	2015	Action/drama	Action/drama
+1630	36478	Bumper Draw	2015	Comedy	Comedy
+1631	36479	Chinar Daastaan-E-Ishq	2015	Romantic/drama	Romantic/drama
+1632	36480	Pyaar Ka Punchnama 2	2015	Comedy	Comedy
+1633	36481	Wedding Pullav	2015	Comedy	Comedy
+1634	36482	Shaandaar	2015	Romance/comedy	Romance/comedy
+1635	36483	Titli	2015	Crime	Crime
+1636	36484	Main Aur Charles	2015	Thriller	Thriller
+1637	36485	Once Upon A Time In Bihar	2015	Political	Political
+1638	36486	"Guddu Ki Gun
+"	2015	Comedy	Comedy
+1639	36487	Love Exchange	2015	Romance	Romance
+1640	36488	Prithipal Singh... A Story	2015	Biopic	Biopic
+1641	36489	Four Pillars of Basement	2015	Thriller	Thriller
+1642	36490	Charlie Kay Chakkar Mein	2015	Crime/thriller	Crime/thriller
+1643	36491	Yaara Silly Silly	2015	Romance	Romance
+1644	36492	"Ranbanka
+"	2015	Action	Action
+1645	36493	Prem Ratan Dhan Payo	2015	Romance	Romance
+1646	36494	X	2015	Anthology	Anthology
+1647	36495	Angry Indian Goddesses	2015	Drama	Drama
+1648	36496	Tamasha	2015	Romance	Romance
+1649	36497	Hate Story 3	2015	Adult/thriller	Adult/thriller
+1650	36498	Kajarya	2015	Drama	Drama
+1651	36499	The Silent Heroes	2015	Adventure	Adventure
+1652	36500	Bajirao Mastani	2015	Romance	Romance
+1653	36501	Dilwale	2015	Action/romance	Action/romance
+1654	36502	Monsoon Shootout	2016	Neo-noir	Neo-noir
+1655	36503	Wazir	2016	Thriller	Thriller
+1656	36504	Chalk n Duster	2016	Drama	Drama
+1657	36505	Rebellious Flower	2016	Biopic	Biopic
+1658	36506	Airlift	2016	War/Thriller	War/Thriller
+1659	36507	Jugni	2016	Musical drama	Musical drama
+1660	36508	Kyaa Kool Hain Hum 3	2016	Adult comedy	Adult comedy
+1661	36509	Saala Khadoos	2016	Sports	Sports
+1662	36510	Mastizaade	2016	Adult comedy	Adult comedy
+1663	36512	Ghayal Once Again	2016	Action/drama	Action/drama
+1664	36513	Fitoor	2016	Romance/drama	Romance/drama
+1665	36514	Sanam Re	2016	Romance	Romance
+1666	36515	Direct Ishq	2016	Drama	Drama
+1667	36516	Ishq Forever	2016	Drama	Drama
+1668	36517	LoveShhuda	2016	Romance	Romance
+1669	36518	Neerja	2016	Biopic/drama	Biopic/drama
+1670	36519	Dhara 302	2016	Actiom/drama	Actiom/drama
+1671	36520	"Aligarh
+"	2016	Biopic/drama	Biopic/drama
+1672	36521	Bollywood Diaries	2016	Drama	Drama
+1673	36522	Love Shagun	2016	Romance/comedy	Romance/comedy
+1674	36523	Tere Bin Laden: Dead or Alive	2016	Comedy	Comedy
+1675	36524	Zubaan	2016	Drama	Drama
+1676	36525	Jai Gangaajal	2016	Drama/comedy	Drama/comedy
+1677	36526	Global Baba	2016	Satire	Satire
+1678	36527	Teraa Surroor	2016	Action/thriller/romance	Action/thriller/romance
+1679	36528	OK Mein Dhokhe	2016	Drama/thriller	Drama/thriller
+1680	36529	Kapoor & Sons	2016	Drama/comedy	Drama/comedy
+1681	36530	Rocky Handsome	2016	Action	Action
+1682	36560	Ki & Ka	2016	Romantic comedy	Romantic comedy
+1683	36561	Love Games	2016	Thriller	Thriller
+1684	36562	The Blueberry Hunt	2016	Thriller	Thriller
+1685	36563	Kaafiron Ki Namaaz	2016	Drama	Drama
+1686	36564	Fan	2016	Action/drama/thriller	Action/drama/thriller
+1687	36565	Nil Battey Sannata	2016	Comedy/drama	Comedy/drama
+1688	36566	Laal Rang	2016	Action	Action
+1689	36567	Santa Banta Pvt Ltd	2016	Comedy	Comedy
+1690	36569	Shortcut Safari	2016	Adventure, drama	Adventure drama
+1691	36570	One Night Stand	2016	Thriller	Thriller
+1692	36571	Traffic	2016	Thriller	Thriller
+1693	36572	1920 London	2016	Horror	Horror
+1694	36573	Murari the Mad Gentleman	2016	Comedy	Comedy
+1695	36574	Azhar	2016	Biopic	Biopic
+1696	36575	Buddha in a Traffic Jam	2016	Political drama	Political drama
+1697	36576	Khel Toh Ab Shuru Hoga	2016	Comedy	Comedy
+1698	36577	Dear Dad	2016	Drama	Drama
+1699	36578	Kaptaan	2016	Comedy	Comedy
+1700	36579	Sarbjit	2016	Biopic	Biopic
+1701	36580	Phobia	2016	Thriller/horror	Thriller/horror
+1702	36581	Veerappan	2016	Action/biopic	Action/biopic
+1703	36582	Fredrick	2016	Action	Action
+1704	36583	Waiting	2016	Drama	Drama
+1705	36584	Housefull 3	2016	Comedy	Comedy
+1706	36585	Do Lafzon Ki Kahani	2016	Romantic	Romantic
+1707	36586	Dhanak	2016	Drama	Drama
+1708	36587	Te3n	2016	Thriller	Thriller
+1709	36588	Udta Punjab	2016	Crime	Crime
+1710	36589	Luv U Alia	2016	Romance	Romance
+1711	36590	Raman Raghav 2.0	2016	Crime/thriller	Crime/thriller
+1712	36591	Junooniyat	2016	Romance	Romance
+1713	36592	7 Hours To Go	2016	Crime/thriller	Crime/thriller
+1714	36593	A Scandall	2016	Adult	Adult
+1715	36594	Rough Book	2016	Drama	Drama
+1716	36595	Shorgul	2016	Political drama	Political drama
+1717	36596	Dil Toh Deewana Hai	2016	Comedy/romance	Comedy/romance
+1718	36597	Sultan	2016	Sports/drama	Sports/drama
+1719	36598	Brahman Naman	2016	Comedy	Comedy
+1720	36599	Great Grand Masti	2016	Sex comedy/horror	Sex comedy/horror
+1721	36600	Madaari	2016	Drama	Drama
+1722	36601	Ishq Click	2016	Romance/drama	Romance/drama
+1723	36602	M Cream	2016	Road movie	Road movie
+1724	36603	Dishoom	2016	Action	Action
+1725	36604	Love Ke Funday	2016	Comedy	Comedy
+1726	36605	The Legend of Michael Mishra	2016	Romance/drama	Romance/drama
+1727	36606	Fever	2016	Thriller	Thriller
+1728	36607	Hai Apna Dil Toh Awara	2016	Comedy/Romance	Comedy/Romance
+1729	36608	Mohenjo Daro	2016	Period drama	Period drama
+1730	36609	Rustom	2016	Romance/thriller	Romance/thriller
+1731	36610	Happy Bhaag Jayegi	2016	Comedy	Comedy
+1732	36611	Waarrior Savitri	2016	Action	Action
+1733	36612	A Flying Jatt	2016	Superhero/Action/comedy	Superhero/Action/comedy
+1734	36613	Akira	2016	Action/drama	Action/drama
+1735	36614	Yea Toh Two Much Ho Gayaa	2016	Action/drama	Action/drama
+1736	36615	Island City	2016	Drama	Drama
+1737	36616	Baar Baar Dekho	2016	Drama/Romance	Drama/Romance
+1738	36617	Freaky Ali	2016	Comedy/sports	Comedy/sports
+1739	36618	Ek Kahani Julie Ki	2016	Thriller	Thriller
+1740	36619	Raaz Reboot	2016	Horror	Horror
+1741	36620	Pink	2016	Drama	Drama
+1742	36621	Parched	2016	Drama	Drama
+1743	36622	Banjo	2016	Comedy/drama	Comedy/drama
+1744	36623	Days of Tafree	2016	Comedy	Comedy
+1745	36625	M.S. Dhoni: The Untold Story	2016	Biopic/sports	Biopic/sports
+1746	36626	Mirzya	2016	Drama/romance	Drama/romance
+1747	36627	"MSG: The Warrior Lion Heart
+"	2016	Adventure	Adventure
+1748	36628	Tutak Tutak Tutiya	2016	Supernatural comedy	Supernatural comedy
+1749	36629	Anna 	2016	Biographical	Biographical
+1750	36630	Motu Patlu: King Of Kings	2016	Animation/comedy/adventure	Animation/comedy/adventure
+1751	36631	Beiimaan Love	2016	Thriller	Thriller
+1752	36632	Saat Uchakkey	2016	Comedy	Comedy
+1753	36633	Fuddu	2016	Drama	Drama
+1754	36634	Aakhir Kab Tak	2016	Social drama	Social drama
+1755	36635	[LOVE DAY pyaar Ka din]	2016	Comedy thriller	Comedy thriller
+1756	36636	Umrika	2016	Drama	Drama
+1757	36637	31st October	2016	Drama/thriller	Drama/thriller
+1758	36638	Shivaay	2016	Drama/action	Drama/action
+1759	36639	Ae Dil Hai Mushkil	2016	Drama	Drama
+1760	36640	Chaar Sahibzaade: Rise of Banda Singh Bahadur	2016	Animation	Animation
+1761	36641	Dongari Ka Raja	2016	Action/thriller	Action/thriller
+1762	36642	Ishq Junoon	2016	Romantic/erotic	Romantic/erotic
+1763	36643	Rock On 2	2016	Drama	Drama
+1764	36644	Tum Bin 2	2016	Romance	Romance
+1765	36645	Force 2	2016	Action	Action
+1766	36646	"Dear Zindagi
+"	2016	Drama	Drama
+1767	36647	Saansein	2016	Romantic/horror	Romantic/horror
+1768	36648	"Moh Maya Money
+"	2016	Crime drama	Crime drama
+1769	36649	Kahaani 2	2016	Thriller	Thriller
+1770	36650	Befikre	2016	Romance	Romance
+1771	36651	Wajah Tum Ho	2016	Romance/drama	Romance/drama
+1772	36652	Dangal	2016	Biopic	Biopic
+1773	36653	Haraamkhor	2017	Comedy/Crime	Comedy/Crime
+1774	36654	Ok Jaanu	2017	Romance/Drama	Romance/Drama
+1775	36655	Coffee with D	2017	Comedy/crime	Comedy/crime
+1776	36656	Kaabil	2017	Action/thriller	Action/thriller
+1777	36657	Raees	2017	Crime/action	Crime/action
+1778	36658	Hind Ka Napak Ko Jawab: MSG Lion Heart 2	2017	Action/drama	Action/drama
+1779	36659	Jolly LLB 2	2017	Drama	Drama
+1780	36660	U, Me Aur Ghar	2017	Romance/Drama	Romance/Drama
+1781	36661	Runningshaadi.com	2017	Comedy	Comedy
+1782	36662	The Ghazi Attack	2017	Action	Action
+1783	36663	Irada	2017	Thriller/drama	Thriller/drama
+1784	36664	Chauhar	2017	Romance	Romance
+1785	36665	Rangoon	2017	War/drama	War/drama
+1786	36666	Wedding Anniversary	2017	Romance/thriller	Romance/thriller
+1787	36667	Mona Darling	2017	Thriller	Thriller
+1788	36668	Commando 2	2017	Action	Action
+1789	36669	Jeena Isi Ka Naam Hai	2017	Romance/drama	Romance/drama
+1790	36670	Badrinath Ki Dulhania	2017	Romance/comedy	Romance/comedy
+1791	36671	Aa Gaya Hero	2017	Action/comedy	Action/comedy
+1792	36672	Trapped	2017	Drama/Thriller	Drama/Thriller
+1793	36673	Mantra	2017	Drama/Family	Drama/Family
+1794	36674	Machine	2017	Romance/thriller	Romance/thriller
+1795	36675	Phillauri	2017	Romance/comedy	Romance/comedy
+1796	36676	Bhanwarey	2017	Comedy	Comedy
+1797	36677	Anaarkali	2017	Drama	Drama
+1798	36678	Naam Shabana	2017	Action/thriller	Action/thriller
+1799	36679	Poorna: Courage Has No Limit	2017	Adventure	Adventure
+1800	36680	Laali Ki Shaadi Mein Laaddoo Deewana	2017	Romance/drama	Romance/drama
+1801	36681	Mirza Juuliet	2017	Romance/action	Romance/action
+1802	36682	Mukti Bhawan	2017	Drama	Drama
+1803	36684	Begum Jaan	2017	Period drama	Period drama
+1804	36685	Romeo-N-Bullet	2017	Romance	Romance
+1805	36686	Noor	2017	Comedy/drama	Comedy/drama
+1806	36687	Ek Thi Rani Aisi Bhi	2017	Biopic	Biopic
+1807	36688	Maatr	2017	Thriller/drama	Thriller/drama
+1808	36689	Ajab Singh Ki Gajab Kahani	2017	Thriller/drama	Thriller/drama
+1809	36690	Mantostaan	2017	Anthology/drama	Anthology/drama
+1810	36691	Meri Pyaari Bindu	2017	Romance	Romance
+1811	36692	Sarkar 3	2017	Political crime thriller	Political crime thriller
+1812	36693	Half Girlfriend	2017	Romance/drama	Romance/drama
+1813	36694	Jattu Engineer	2017	Comedy	Comedy
+1814	36695	Hindi Medium	2017	Comedy/drama	Comedy/drama
+1815	36696	Chakallaspur	2017	Romance/drama	Romance/drama
+1816	36697	Sachin: A Billion Dreams	2017	Biopic	Biopic
+1817	36698	Thodi Thodi Si Manmaaniyan	2017	Romance/drama	Romance/drama
+1818	36699	A Death in the Gunj	2017	Crime/drama	Crime/drama
+1819	36700	Hanuman: Da' Damdaar	2017	Animation	Animation
+1820	36701	Sweetiee Weds NRI	2017	Romance/comedy	Romance/comedy
+1821	36702	Dobaara: See Your Evil	2017	Horror	Horror
+1822	36703	Flat 211	2017	Suspense/Mystery	Suspense/Mystery
+1823	36704	Dear Maya	2017	Thriller/drama	Thriller/drama
+1824	36705	Raabta	2017	Romance/thriller	Romance/thriller
+1825	36706	Behen Hogi Teri	2017	Romance/comedy	Romance/comedy
+1826	36708	Love You Family	2017	Drama	Drama
+1827	36709	G Kutta Se	2017	Drama	Drama
+1828	36710	Bank Chor	2017	Comedy/Thriller	Comedy/Thriller
+1829	36711	Tubelight	2017	Action/drama	Action/drama
+1830	36712	Ek Haseena Thi Ek Deewana Tha	2017	Romance	Romance
+1831	36713	Mom	2017	Thriller/drama	Thriller/drama
+1832	36714	Guest Iin London	2017	Comedy	Comedy
+1833	36715	Jagga Jasoos	2017	Comedy/romance	Comedy/romance
+1834	36716	Shab	2017	Drama	Drama
+1835	36717	Lipstick Under My Burkha	2017	Sex/drama	Sex/drama
+1836	36718	Munna Michael	2017	Action/romance	Action/romance
+1837	36719	Raag Desh : Birth Of A Nation	2017	Period drama/action	Period drama/action
+1838	36720	Indu Sarkar	2017	Drama	Drama
+1839	36721	Mubarakan	2017	Comedy/romance	Comedy/romance
+1840	36722	Gurgaon	2017	Neo-noir	Neo-noir
+1841	36723	Jab Harry Met Sejal	2017	Romance	Romance
+1842	36724	Toilet: Ek Prem Katha	2017	Comedy/drama	Comedy/drama
+1843	36725	Partition: 1947	2017	Drama	Drama
+1844	36726	Bareilly Ki Barfi	2017	Comedy/romance	Comedy/romance
+1845	36727	A Gentleman	2017	Action/romance	Action/romance
+1846	36728	Babumoshai Bandookbaaz	2017	Action	Action
+1847	36729	Yadvi  The Dignified Princess	2017	Drama	Drama
+1848	36730	Qaidi Band	2017	Musical/drama	Musical/drama
+1849	36731	"Baadshaho
+"	2017	Action/crime Thriller	Action/crime Thriller
+1850	36732	Shubh Mangal Savdhan	2017	Drama/Comedy	Drama/Comedy
+1851	36733	Poster Boys	2017	Comedy	Comedy
+1852	36734	Daddy	2017	Crime/drama	Crime/drama
+1853	36735	Simran	2017	Drama	Drama
+1854	36736	Lucknow Central	2017	Drama	Drama
+1855	36737	Patel Ki Punjabi Shaadi	2017	Comedy/drama	Comedy/drama
+1856	36738	Newton	2017	Dark comedy	Dark comedy
+1857	36739	Bhoomi	2017	Action/drama	Action/drama
+1858	36740	The Final Exit	2017	Horror	Horror
+1859	36741	JD	2017	Drama/thriller	Drama/thriller
+1860	36742	Haseena Parkar	2017	Biographic	Biographic
+1861	36743	Judwaa 2	2017	Action/comedy	Action/comedy
+1862	36744	Tu Hai Mera Sunday	2017	Romantic comedy	Romantic comedy
+1863	36745	Chef	2017	Comedy	Comedy
+1864	36746	Babuji Ek Ticket Bambai	2017	Social drama	Social drama
+1865	36747	Main Terrorist Nahi Hoon	2017	Action	Action
+1866	36748	Ranchi Diaries	2017	Drama/thriller	Drama/thriller
+1867	36749	Secret Superstar	2017	Musical drama	Musical drama
+1868	36750	Golmaal Again	2017	Comedy	Comedy
+1869	36751	Jia aur Jia	2017	Road film	Road film
+1870	36752	Rukh	2017	Drama	Drama
+1871	36754	The House Next Door	2017	Horror	Horror
+1872	36755	Ribbon	2017	Drama	Drama
+1873	36756	Shaadi Mein Zaroor Aana	2017	Romance/drama	Romance/drama
+1874	36757	Qarib Qarib Singlle	2017	Romance/comedy	Romance/comedy
+1875	36758	The Window	2017	Suspense thriller	Suspense thriller
+1876	36759	"Aksar 2
+"	2017	Thriller	Thriller
+1877	36760	Panchlait	2017	Romantic comedy	Romantic comedy
+1878	36761	Tumhari Sulu	2017	Social/Comedy	Social/Comedy
+1879	36762	Dil Jo Na Keh Saka	2017	Romantic drama	Romantic drama
+1880	36763	Julie 2	2017	Erotic thriller	Erotic thriller
+1881	36764	Ajji	2017	Drama	Drama
+1882	36765	Kadvi Hawa	2017	Drama/disaster	Drama/disaster
+1883	36766	Saankal	2017	Drama	Drama
+1884	36767	Tera Intezaar	2017	Romantic thriller	Romantic thriller
+1885	36768	Firangi	2017	Comedy	Comedy
+1886	36769	Fukrey Returns	2017	Comedy	Comedy
+1887	36770	Game Over	2017	Suspense/thriller	Suspense/thriller
+1888	36771	Sallu ki Shaadi	2017	Comedy drama	Comedy drama
+1889	36773	Tiger Zinda Hai	2017	Action/drama	Action/drama
+1890	36774	1921	2018	Horror	Horror
+1891	36775	Kaalakaandi	2018	Dark comedy	Dark comedy
+1892	36776	Mukkabaaz	2018	Drama	Drama
+1893	36777	My Birthday Song	2018	Psychological,Thriller	Psychological,Thriller
+1894	36778	Vodka Diaries	2018	Suspense,Thriller	Suspense,Thriller
+1895	36779	Nirdosh	2018	Thriller	Thriller
+1896	36780	Union Leader	2018	Drama	Drama
+1897	36781	Padmaavat	2018	drama	drama
+1898	36782	Pad Man	2018	Comedy,Drama	Comedy,Drama
+1899	36783	Love Per Square Foot	2018	Romantic,Comedy	Romantic,Comedy
+1900	36784	Aiyaary	2018	Drama	Drama
+1901	36785	Kuchh Bheege Alfaaz	2018	Romance	Romance
+1902	36786	Jaane Kyun De Yaaron	2018	Drama	Drama
+1903	36787	Sonu Ke Titu Ki Sweety	2018	Drama	Drama
+1904	36788	Welcome To New York	2018	Comedy	Comedy
+1905	36789	Pari	2018	Thriller	Thriller
+1906	36790	Veerey Ki Wedding	2018	Drama	Drama
+1907	36791	Billu Ustaad	2018	Drama	Drama
+1908	36792	Hate Story 4	2018	thriller	thriller
+1909	36793	Dil Juunglee	2018	Romantic/ Comedy	Romantic/ Comedy
+1910	36794	3 Storeys	2018	Thriller	Thriller
+1911	36795	Note Pe Chot at 8/11	2018	Satire/ Comedy	Satire/ Comedy
+1912	36796	Raid	2018	Action, thriller	Action thriller
+1913	36797	Raja Abroadiya	2018	Comedy	Comedy
+1914	36798	Hichki	2018	Drama	Drama
+1915	36799	Pareshaan Parinda	2018	Thriller	Thriller
+1916	36800	Baa Baaa Black Sheep	2018	Comedy	Comedy
+1917	36801	Shaadi Teri Bajayenge Hum Band	2018	Comedy	Comedy
+1918	36802	Baaghi 2	2018	Action/Romance	Action/Romance
+1919	36803	Missing	2018	Psychological,Thriller	Psychological,Thriller
+1920	36804	Mercury	2018	Thriller	Thriller
+1921	36805	Zoo	2018	Drama	Drama
+1922	36806	Beyond the Clouds	2018	Drama	Drama
+1923	36807	Nanu Ki Jaanu	2018	Comedy	Comedy
+1924	36808	Daas Dev	2018	Romantic,thriller	Romantic,thriller
+1925	36809	Ishq Tera	2018	Thriller	Thriller
+1926	36810	Our Heroes	2018	Action	Action
+1927	36811	102 Not Out	2018	Comedy	Comedy
+1928	36812	Omerta	2018	Crime,Drama	Crime,Drama
+1929	36813	Raazi	2018	Thriller	Thriller
+1930	36814	The Past	2018	Horror,Thriller	Horror,Thriller
+1931	36815	Hope Aur Hum	2018	Drama	Drama
+1932	36816	Falooda	2018	Comedy	Comedy
+1933	36817	Bhootwali Love Story	2018	Horror,Comedy	Horror,Comedy
+1934	36818	High Jack	2018	Comedy	Comedy
+1935	36819	Khajoor Pe Atke	2018	Comedy	Comedy
+1936	36820	Parmanu: The Story Of Pokhran	2018	Action/drama	Action/drama
+1937	36821	One Night Out	2018	Suspense,thriller	Suspense,thriller
+1938	36822	Bioscopewala	2018	Drama	Drama
+1939	36823	Veere Di Wedding	2018	Romantic,comedy	Romantic,comedy
+1940	36824	Bhavesh Joshi Superhero	2018	Action	Action
+1941	36825	Phamous	2018	Drama/Action	Drama/Action
+1942	36826	Race 3	2018	Thriller	Thriller
+1943	36827	Sanju	2018	Biopic	Biopic
+1944	36828	Soorma	2018	Biopic	Biopic
+1945	36829	When Obama Loved Osama	2018	Comedy	Comedy
+1946	36830	Dhadak	2018	Drama	Drama
+1947	36831	Ekta	2018	Horror/Thriller	Horror/Thriller
+1948	36832	Saheb, Biwi Aur Gangster 3	2018	Drama	Drama
+1949	36833	Nawabzaade	2018	Romantic,Comedy	Romantic,Comedy
+1950	36834	Fanney Khan	2018	Musical,comedy	Musical,comedy
+1951	36835	Mulk	2018	Drama	Drama
+1952	36836	Brij Mohan Amar Rahe!	2018	Crime,Comedy	Crime,Comedy
+1953	36837	Laxmi and Tikli Bomb	2018	Drama	Drama
+1954	36838	Karwaan	2018	Comedy	Comedy
+1955	36839	Gold	2018	Sports/Drama	Sports/Drama
+1956	36840	Satyameva Jayate	2018	Action/Thriller	Action/Thriller
+1957	36841	Happy Phirr Bhag Jayegi	2018	Comedy	Comedy
+1958	36842	Genius	2018	Biography, Drama	Biography Drama
+1959	36843	Yamla Pagla Deewana: Phir Se	2018	Comedy	Comedy
+1960	36844	Stree	2018	Horror,Comedy	Horror,Comedy
+1961	36845	Paltan	2018	Action/War	Action/War
+1962	36846	Laila Majnu	2018	Drama/Romance	Drama/Romance
+1963	36847	Gali Guleiyan	2018	Psychological,drama	Psychological,drama
+1964	36848	Halkaa	2018	Drama	Drama
+1965	36849	Manmarziyaan	2018	Romantic/Drama	Romantic/Drama
+1966	36850	Love Sonia	2018	Drama	Drama
+1967	36851	Turning Point	2018	Action/Drama/Musical	Action/Drama/Musical
+1968	36852	Bajra vs Burger	2018	Comedy	Comedy
+1969	36853	Kathor	2018	Drama	Drama
+1970	36854	22 Days	2018	Drama	Drama
+1971	36855	Mitron	2018	Comedy	Comedy
+1972	36856	Batti Gul Meter Chalu	2018	Romance, Social,Drama	Romance Social,Drama
+1973	36857	Manto	2018	Biographical	Biographical
+1974	36858	Ishqeria	2018	Romance	Romance
+1975	36859	Sui Dhaaga	2018	Romance, Social,Drama	Romance Social,Drama
+1976	36860	Pataakha	2018	Drama	Drama
+1977	36861	Loveyatri	2018	Romantic	Romantic
+1978	36862	Andhadhun	2018	thriller	thriller
+1979	36863	Jalebi	2018	Romance	Romance
+1980	36864	Helicopter Eela	2018	Drama	Drama
+1981	36865	Maal road dilli	2018	Drama	Drama
+1982	36866	FryDay	2018	Comedy	Comedy
+1983	36867	Tumbbad	2018	Suspense,Thriller	Suspense,Thriller
+1984	36868	Namaste England	2018	romance,comedy	romance,comedy
+1985	36869	Badhaai Ho	2018	romance,comedy	romance,comedy
+1986	36870	Baazaar	2018	Crime	Crime
+1987	36871	5 Weddings	2018	Comedy, Romance, Drama	Comedy Romance Drama
+1988	36872	Kaashi in Search of Ganga	2018	Suspense thriller	Suspense thriller
+1989	36873	Dassehra	2018	Action,Thriller	Action,Thriller
+1990	36874	The Journey of Karma	2018	thriller	thriller
+1991	36875	Lupt	2018	Horror	Horror
+1992	36876	Jack and Dil	2018	Comedy	Comedy
+1993	36877	Mausam Ikrar Ke Do Pal Pyaar Ke	2018	Romance,Family,Drama	Romance,Family,Drama
+1994	36878	Thugs of Hindostan	2018	action/adventure	action/adventure
+1995	36879	Mohalla Assi	2018	Drama	Drama
+1996	36880	Pihu	2018	Thriller	Thriller
+1997	36881	Hotel Milan	2018	Comedy	Comedy
+1998	36882	Bhaiaji Superhit	2018	Action/Comedy	Action/Comedy
+1999	36883	Rajma Chawal	2018	Drama	Drama
+2000	36884	Kedarnath	2018	Drama	Drama
+2001	36885	PK Lele A Salesman	2018	Adult-comedy	Adult-comedy
+2002	36886	Zero	2018	Comedy/drama	Comedy/drama
+2003	36887	Simmba	2018	Action Comedy	Action Comedy
+2004	36888	Uri: The Surgical Strike	2019	Action	Action
+2005	36889	Battalion 609	2019	Action	Action
+2006	36890	The Accidental Prime Minister	2019	Biopic	Biopic
+2007	36891	Why Cheat India	2019	Drama	Drama
+2008	36892	Fraud Saiyaan	2019	Comedy	Comedy
+2009	36893	Soni	2019	Crime, Drama	Crime Drama
+2010	36894	72 Hours: Martyr Who Never Died	2019	Biography,Drama	Biography,Drama
+2011	36895	Bombairiya	2019	comedy	comedy
+2012	36896	Rangeela Raja	2019	Comedy	Comedy
+2013	36897	The Lift Boy	2019	Drama/ Coming of Age	Drama/ Coming of Age
+2014	36898	Thackeray	2019	Biographical	Biographical
+2015	36899	Manikarnika: The Queen of Jhansi	2019	Biographical	Biographical
+2016	36900	Ek Ladki Ko Dekha Toh Aisa Laga	2019	Romance	Romance
+2017	36901	The Fakir of Venice	2019	Drama	Drama
+2018	36902	Gully Boy	2019	Biopic	Biopic
+2019	36903	Hum Chaar	2019	Drama	Drama
+2020	36904	Total Dhamaal	2019	Comedy	Comedy
+2021	36905	Luka Chuppi	2019	Romance, comedy	Romance comedy
+2022	36906	Sonchiriya	2019	Crime,Drama	Crime,Drama
+2023	36907	Badla	2019	Drama /Thriller	Drama /Thriller
+2024	36908	Hamid	2019	Drama	Drama
+2025	36909	Photograph	2019	Drama	Drama
+2026	36910	Milan Talkies	2019	Drama	Drama
+2027	36911	Mere Pyare Prime Minister	2019	Social ,Drama	Social ,Drama
+2028	36912	Kesari	2019	Drama/historical	Drama/historical
+2029	36913	Mard Ko Dard Nahi Hota	2019	Action Comedy	Action Comedy
+2030	36914	Notebook	2019	Drama	Drama
+2031	36915	Junglee	2019	Action	Action
+2032	36916	Romeo Akbar Walter	2019	Action, thriller	Action thriller
+2033	36917	Albert Pinto Ko Gussa Kyun Aata Hai?	2019	Thriller	Thriller
+2034	36918	The Tashkent Files	2019	Thriller	Thriller
+2035	36919	Kalank	2019	Period drama / thriller	Period drama / thriller
+2036	36920	Blank	2019	Action Thriller	Action Thriller
+2037	36921	Setters	2019	Thriller	Thriller
+2038	36922	Student of the Year 2	2019	Romantic comedy	Romantic comedy
+2039	36923	De De Pyaar De	2019	Romantic comedy	Romantic comedy
+2040	36924	India's Most Wanted	2019	Thriller	Thriller
+2041	36925	PM Narendra Modi	2019	Biopic	Biopic
+2042	36926	Bharat	2019	Drama	Drama
+2043	36927	Khamoshi	2019	Horror	Horror
+2044	36928	Kabir Singh	2019	Drama	Drama
+2045	36929	Article 15	2019	Drama/ Thriller	Drama/ Thriller
+2046	36930	Malaal	2019	Romance	Romance
+2047	36931	One Day: Justice Delivered	2019	Action ,Thriller	Action ,Thriller
+2048	36932	Hume Tumse Pyaar Kitna	2019	Romance, thriller	Romance thriller
+2049	36933	Super 30	2019	Biopic	Biopic
+2050	36934	Family of Thakurganj	2019	Family, Drama	Family Drama
+2051	36935	Jhootha Kahin Ka	2019	Comedy	Comedy
+2052	36936	Judgementall Hai Kya	2019	Thriller, Comedy	Thriller Comedy
+2053	36937	Arjun Patiala	2019	Romance, Comedy	Romance Comedy
+2054	36938	Khandaani Shafakhana	2019	Comedy	Comedy
+2055	36939	Jabariya Jodi	2019	Romance, Comedy	Romance Comedy
+2056	36940	Chicken Curry Law	2019	Drama	Drama
+2057	36941	Pranaam	2019	Action	Action
+2058	36942	Batla House	2019	Action	Action
+2059	36943	Mission Mangal	2019	Drama	Drama
+2060	36944	Saaho	2019	Action	Action
+2061	36945	Chhichhore	2019	Comedy,Drama	Comedy,Drama
+2062	36946	Dream Girl	2019	Comedy	Comedy
+2063	36947	Section 375	2019	crime, thriller	crime thriller
+2064	36948	The Zoya Factor	2019	Drama	Drama
+2065	36949	Pal Pal Dil Ke Paas	2019	Drama/Romance	Drama/Romance
+2066	36950	Prassthanam	2019	Drama	Drama
+2067	36951	Jhalki	2019	Drama	Drama
+2068	36952	War	2019	Action, Thriller	Action Thriller
+2069	36953	The Sky Is Pink	2019	Biopic	Biopic
+2070	36954	Lootcase	2019	Comedy, Drama	Comedy Drama
+2071	36955	P Se Pyaar F Se Faraar	2019	Drama	Drama
+2072	36956	Laal Kaptaan	2019	Action	Action
+2073	36957	Yaaram	2019	Romance,drama	Romance,drama
+2074	36958	Housefull 4	2019	Comedy	Comedy
+2075	36959	Saand Ki Aankh	2019	Biopic	Biopic
+2076	36960	Made In China	2019	Comedy	Comedy
+2077	36961	Bypass Road	2019	Horror Thriller	Horror Thriller
+2078	36962	Marjaavaan	2019	Action/Romance	Action/Romance
+2079	36963	Shikara - A Love Letter from Kashmir	2019	Historical/Romance	Historical/Romance
+2080	36964	Bala	2019	Black Comedy	Black Comedy
+2081	36965	Pagalpanti	2019	Comedy	Comedy
+2082	36966	Dil Bechara	2019	Romance,drama	Romance,drama
+2083	36967	Jawaani Jaaneman	2019	Romance,drama	Romance,drama
+2084	36968	Panipat	2019	Action/battle	Action/battle
+2085	36969	Pati, Patni Aur Woh	2019	Comedy	Comedy
+2086	36970	Mardaani 2	2019	Crime,Thriller	Crime,Thriller
+2087	36971	Dabangg 3	2019	Action	Action
+2088	36972	Good News	2019	Comedy	Comedy
